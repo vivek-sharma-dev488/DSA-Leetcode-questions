@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-12T20:25:01.666Z",
+  "updatedAt": "2026-08-12T20:25:52.890Z",
   "problems": [
     {
       "frontendId": "24",
@@ -63,6 +63,26 @@
           "path": "0092-reverse-linked-list-ii/0092-reverse-linked-list-ii.cpp",
           "sha": "30e1ff316d428fce1347b0ae559c51f8a51d0510",
           "lastSyncedAt": "2026-08-12T20:24:40.473Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "160",
+      "title": "Intersection of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "problemName": "0160-intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "folderPath": "0160-intersection-of-two-linked-lists/",
+      "readmePath": "0160-intersection-of-two-linked-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0160-intersection-of-two-linked-lists.cpp",
+          "path": "0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
+          "sha": "63d1cd88e50cd3093d5dc49aca898fef1d741c44",
+          "lastSyncedAt": "2026-08-12T20:25:52.890Z"
         }
       ]
     }
