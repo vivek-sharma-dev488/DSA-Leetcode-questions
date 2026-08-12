@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-08-12T20:26:16.541Z",
+  "updatedAt": "2026-08-12T20:26:17.240Z",
   "problems": [
     {
       "frontendId": "94",
@@ -63,6 +63,26 @@
           "path": "0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.cpp",
           "sha": "54cba4edc0a1d6285b7e793d9badd0a6a8967019",
           "lastSyncedAt": "2026-08-12T20:26:16.541Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "257",
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "problemName": "0257-binary-tree-paths",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+      "folderPath": "0257-binary-tree-paths/",
+      "readmePath": "0257-binary-tree-paths/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0257-binary-tree-paths.cpp",
+          "path": "0257-binary-tree-paths/0257-binary-tree-paths.cpp",
+          "sha": "9e842084e7df0339e3cad93ebc78a5a31c484e96",
+          "lastSyncedAt": "2026-08-12T20:26:17.240Z"
         }
       ]
     }
