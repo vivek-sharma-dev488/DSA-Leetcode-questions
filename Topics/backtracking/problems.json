@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-08-12T20:26:17.240Z",
+  "updatedAt": "2026-08-12T20:27:05.981Z",
   "problems": [
     {
       "frontendId": "257",
@@ -22,7 +22,7 @@
           "filename": "0257-binary-tree-paths.cpp",
           "path": "0257-binary-tree-paths/0257-binary-tree-paths.cpp",
           "sha": "9e842084e7df0339e3cad93ebc78a5a31c484e96",
-          "lastSyncedAt": "2026-08-12T20:26:17.240Z"
+          "lastSyncedAt": "2026-08-12T20:27:05.981Z"
         }
       ]
     }
