@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion"
+  },
+  "updatedAt": "2026-08-12T20:25:01.666Z",
+  "problems": [
+    {
+      "frontendId": "24",
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "problemName": "0024-swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+      "folderPath": "0024-swap-nodes-in-pairs/",
+      "readmePath": "0024-swap-nodes-in-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0024-swap-nodes-in-pairs.cpp",
+          "path": "0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
+          "sha": "ceafe0d2dd597f150dea1c77406f847e49d114b9",
+          "lastSyncedAt": "2026-08-12T20:25:01.666Z"
+        }
+      ]
+    }
+  ]
+}
