@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-08-12T20:27:16.948Z",
+  "updatedAt": "2026-08-12T20:27:25.768Z",
   "problems": [
     {
       "frontendId": "94",
@@ -42,7 +42,7 @@
           "filename": "0100-same-tree.cpp",
           "path": "0100-same-tree/0100-same-tree.cpp",
           "sha": "38b8d82a9100d68146697aae65c089305a9c9098",
-          "lastSyncedAt": "2026-08-12T20:26:50.626Z"
+          "lastSyncedAt": "2026-08-12T20:27:25.768Z"
         }
       ]
     },
