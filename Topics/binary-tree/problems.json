@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-08-12T20:26:40.996Z",
+  "updatedAt": "2026-08-12T20:26:50.626Z",
   "problems": [
     {
       "frontendId": "94",
@@ -23,6 +23,26 @@
           "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.cpp",
           "sha": "62aa2b17ea909b306441ae89e173b47ac0ef9ce7",
           "lastSyncedAt": "2026-08-12T20:26:02.220Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0100-same-tree.cpp",
+          "path": "0100-same-tree/0100-same-tree.cpp",
+          "sha": "38b8d82a9100d68146697aae65c089305a9c9098",
+          "lastSyncedAt": "2026-08-12T20:26:50.626Z"
         }
       ]
     },
