@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-08-12T20:27:25.768Z",
+  "updatedAt": "2026-08-12T20:27:33.323Z",
   "problems": [
     {
       "frontendId": "94",
@@ -142,7 +142,7 @@
           "filename": "0543-diameter-of-binary-tree.cpp",
           "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.cpp",
           "sha": "4c56f128f29b813246aff46dceff0fa51d36b195",
-          "lastSyncedAt": "2026-08-12T20:27:00.248Z"
+          "lastSyncedAt": "2026-08-12T20:27:33.323Z"
         }
       ]
     }
