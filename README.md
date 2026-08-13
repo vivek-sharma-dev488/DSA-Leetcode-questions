@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 16 | 11 | 5 | 0 |
+| 17 | 11 | 6 | 0 |
 
 ## Activity
 
@@ -20,28 +20,28 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-08-08 | 1 |
 | 2026-08-09 | 6 |
 | 2026-08-10 | 2 |
-| 2026-08-13 | 4 |
+| 2026-08-13 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 7 | 44% |
-| Depth-First Search | 7 | 44% |
-| Linked List | 7 | 44% |
-| Tree | 7 | 44% |
-| Breadth-First Search | 3 | 19% |
-| Hash Table | 3 | 19% |
-| Two Pointers | 3 | 19% |
-| Array | 2 | 13% |
-| Stack | 2 | 13% |
-| Backtracking | 1 | 6% |
+| Binary Tree | 7 | 41% |
+| Depth-First Search | 7 | 41% |
+| Linked List | 7 | 41% |
+| Tree | 7 | 41% |
+| Array | 3 | 18% |
+| Breadth-First Search | 3 | 18% |
+| Hash Table | 3 | 18% |
+| Two Pointers | 3 | 18% |
+| Matrix | 2 | 12% |
+| Stack | 2 | 12% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 3 |
+| [Array](Topics/array/) | 4 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 7 |
@@ -57,7 +57,8 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 7 |
-| [Matrix](Topics/matrix/) | 1 |
+| [Math](Topics/math/) | 1 |
+| [Matrix](Topics/matrix/) | 2 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 2 |
