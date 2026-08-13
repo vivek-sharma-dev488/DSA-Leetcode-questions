@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T05:53:39.883Z",
+  "updatedAt": "2026-08-13T05:54:05.722Z",
   "problems": [
     {
       "frontendId": "1",
@@ -103,6 +103,26 @@
           "path": "0035-search-insert-position/0035-search-insert-position.cpp",
           "sha": "75e1383e440f4f33be8ba419378ab8898237728c",
           "lastSyncedAt": "2026-08-13T04:05:00.425Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "problemName": "0039-combination-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+      "folderPath": "0039-combination-sum/",
+      "readmePath": "0039-combination-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0039-combination-sum.cpp",
+          "path": "0039-combination-sum/0039-combination-sum.cpp",
+          "sha": "8ec03a6fe3c205ac6cb108f8758d3a4e4c0a6194",
+          "lastSyncedAt": "2026-08-13T05:54:05.722Z"
         }
       ]
     },
