@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T05:50:30.308Z",
+  "updatedAt": "2026-08-13T05:51:04.404Z",
   "problems": [
     {
       "frontendId": "1",
@@ -63,6 +63,26 @@
           "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.cpp",
           "sha": "e68e8ba2d31725f27f498457b493a0d027f5f381",
           "lastSyncedAt": "2026-08-13T05:49:42.814Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "34",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "problemName": "0034-find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      "folderPath": "0034-find-first-and-last-position-of-element-in-sorted-array/",
+      "readmePath": "0034-find-first-and-last-position-of-element-in-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0034-find-first-and-last-position-of-element-in-sorted-array.cpp",
+          "path": "0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.cpp",
+          "sha": "6b0717e5f7ba7e30cc1024f01baa8c8fb4c46eac",
+          "lastSyncedAt": "2026-08-13T05:51:04.404Z"
         }
       ]
     },
