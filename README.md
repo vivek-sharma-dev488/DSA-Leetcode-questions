@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 15 | 8 | 1 |
+| 25 | 16 | 8 | 1 |
 
 ## Activity
 
@@ -20,28 +20,28 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-08-08 | 1 |
 | 2026-08-09 | 6 |
 | 2026-08-10 | 2 |
-| 2026-08-13 | 12 |
+| 2026-08-13 | 13 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 10 | 42% |
-| Binary Tree | 7 | 29% |
-| Depth-First Search | 7 | 29% |
-| Linked List | 7 | 29% |
-| Tree | 7 | 29% |
-| Two Pointers | 5 | 21% |
-| Matrix | 4 | 17% |
-| Breadth-First Search | 3 | 13% |
-| Hash Table | 3 | 13% |
-| Stack | 3 | 13% |
+| Array | 11 | 44% |
+| Binary Tree | 7 | 28% |
+| Depth-First Search | 7 | 28% |
+| Linked List | 7 | 28% |
+| Tree | 7 | 28% |
+| Two Pointers | 5 | 20% |
+| Matrix | 4 | 16% |
+| Breadth-First Search | 3 | 12% |
+| Dynamic Programming | 3 | 12% |
+| Hash Table | 3 | 12% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 11 |
+| [Array](Topics/array/) | 12 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 7 |
@@ -51,7 +51,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Depth-First Search](Topics/depth-first-search/) | 7 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
