@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation"
+  },
+  "updatedAt": "2026-08-13T04:02:06.779Z",
+  "problems": [
+    {
+      "frontendId": "867",
+      "title": "Transpose Matrix",
+      "slug": "transpose-matrix",
+      "problemName": "0867-transpose-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transpose-matrix/",
+      "folderPath": "0867-transpose-matrix/",
+      "readmePath": "0867-transpose-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0867-transpose-matrix.cpp",
+          "path": "0867-transpose-matrix/0867-transpose-matrix.cpp",
+          "sha": "48ca05bc8a5c43811af3ff978560006cf30c9155",
+          "lastSyncedAt": "2026-08-13T04:02:06.779Z"
+        }
+      ]
+    }
+  ]
+}
