@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-08-13T05:53:39.883Z",
+  "updatedAt": "2026-08-13T05:54:05.722Z",
   "problems": [
     {
       "frontendId": "22",
@@ -23,6 +23,26 @@
           "path": "0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "3838960081106e361fa8e060be4e9278b7075f94",
           "lastSyncedAt": "2026-08-13T05:52:59.607Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "problemName": "0039-combination-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+      "folderPath": "0039-combination-sum/",
+      "readmePath": "0039-combination-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0039-combination-sum.cpp",
+          "path": "0039-combination-sum/0039-combination-sum.cpp",
+          "sha": "8ec03a6fe3c205ac6cb108f8758d3a4e4c0a6194",
+          "lastSyncedAt": "2026-08-13T05:54:05.722Z"
         }
       ]
     },
