@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-13T03:57:52.804Z",
+  "updatedAt": "2026-08-13T05:52:29.796Z",
   "problems": [
+    {
+      "frontendId": "38",
+      "title": "Count and Say",
+      "slug": "count-and-say",
+      "problemName": "0038-count-and-say",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-and-say/",
+      "folderPath": "0038-count-and-say/",
+      "readmePath": "0038-count-and-say/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0038-count-and-say.cpp",
+          "path": "0038-count-and-say/0038-count-and-say.cpp",
+          "sha": "c7270d9da6b37dc103df9b10cbcb204296e4c85b",
+          "lastSyncedAt": "2026-08-13T05:52:29.796Z"
+        }
+      ]
+    },
     {
       "frontendId": "257",
       "title": "Binary Tree Paths",
