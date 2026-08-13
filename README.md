@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 19 | 16 | 1 |
+| 37 | 19 | 17 | 1 |
 
 ## Activity
 
@@ -20,20 +20,20 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-08-08 | 1 |
 | 2026-08-09 | 6 |
 | 2026-08-10 | 2 |
-| 2026-08-13 | 24 |
+| 2026-08-13 | 25 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 53% |
-| Binary Search | 7 | 19% |
+| Array | 20 | 54% |
+| Binary Search | 8 | 22% |
 | Binary Tree | 7 | 19% |
 | Depth-First Search | 7 | 19% |
 | Linked List | 7 | 19% |
 | Tree | 7 | 19% |
-| Backtracking | 6 | 17% |
-| Two Pointers | 5 | 14% |
+| Backtracking | 6 | 16% |
+| Two Pointers | 6 | 16% |
 | Dynamic Programming | 4 | 11% |
 | Hash Table | 4 | 11% |
 
@@ -41,9 +41,9 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 20 |
+| [Array](Topics/array/) | 21 |
 | [Backtracking](Topics/backtracking/) | 6 |
-| [Binary Search](Topics/binary-search/) | 7 |
+| [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 7 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -60,6 +60,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Heap](Topics/heap/) | 0 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 7 |
 | [Math](Topics/math/) | 2 |
 | [Matrix](Topics/matrix/) | 4 |
@@ -67,10 +68,11 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
-| [Sorting](Topics/sorting/) | 2 |
+| [Sliding Window](Topics/sliding-window/) | 1 |
+| [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 3 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 7 |
-| [Two Pointers](Topics/two-pointers/) | 6 |
+| [Two Pointers](Topics/two-pointers/) | 7 |
 <!---LeetHub Summary End-->
