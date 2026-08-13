@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-13T04:04:00.412Z",
+  "updatedAt": "2026-08-13T05:55:05.455Z",
   "problems": [
     {
       "frontendId": "31",
@@ -103,6 +103,26 @@
           "path": "0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
           "sha": "63d1cd88e50cd3093d5dc49aca898fef1d741c44",
           "lastSyncedAt": "2026-08-13T03:57:42.026Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "658",
+      "title": "Find K Closest Elements",
+      "slug": "find-k-closest-elements",
+      "problemName": "0658-find-k-closest-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements/",
+      "folderPath": "0658-find-k-closest-elements/",
+      "readmePath": "0658-find-k-closest-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0658-find-k-closest-elements.cpp",
+          "path": "0658-find-k-closest-elements/0658-find-k-closest-elements.cpp",
+          "sha": "856a5e673b0c4acdb951a5854be219cc13833336",
+          "lastSyncedAt": "2026-08-13T05:55:05.455Z"
         }
       ]
     },
