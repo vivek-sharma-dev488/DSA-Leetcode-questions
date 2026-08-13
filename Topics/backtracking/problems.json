@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-08-13T05:54:05.722Z",
+  "updatedAt": "2026-08-13T05:54:28.791Z",
   "problems": [
     {
       "frontendId": "22",
@@ -83,6 +83,26 @@
           "path": "0078-subsets/0078-subsets.cpp",
           "sha": "8a97bab1e20fb88b685cc4158c48846dd117a041",
           "lastSyncedAt": "2026-08-13T04:05:56.019Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "90",
+      "title": "Subsets II",
+      "slug": "subsets-ii",
+      "problemName": "0090-subsets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+      "folderPath": "0090-subsets-ii/",
+      "readmePath": "0090-subsets-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0090-subsets-ii.cpp",
+          "path": "0090-subsets-ii/0090-subsets-ii.cpp",
+          "sha": "5dc0bec8ec56a296ffa8aecfe7d175e83967031c",
+          "lastSyncedAt": "2026-08-13T05:54:28.791Z"
         }
       ]
     },
