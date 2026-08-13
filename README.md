@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 32 | 19 | 12 | 1 |
+| 31 | 19 | 11 | 1 |
 
 ## Activity
 
@@ -20,22 +20,22 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-08-08 | 1 |
 | 2026-08-09 | 6 |
 | 2026-08-10 | 2 |
-| 2026-08-13 | 20 |
+| 2026-08-13 | 19 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 50% |
-| Binary Search | 7 | 22% |
-| Binary Tree | 7 | 22% |
-| Depth-First Search | 7 | 22% |
-| Linked List | 7 | 22% |
-| Tree | 7 | 22% |
+| Array | 16 | 52% |
+| Binary Search | 7 | 23% |
+| Binary Tree | 7 | 23% |
+| Depth-First Search | 7 | 23% |
+| Linked List | 7 | 23% |
+| Tree | 7 | 23% |
 | Two Pointers | 5 | 16% |
 | Hash Table | 4 | 13% |
 | Matrix | 4 | 13% |
-| Breadth-First Search | 3 | 9% |
+| Breadth-First Search | 3 | 10% |
 
 ## Topics
 
