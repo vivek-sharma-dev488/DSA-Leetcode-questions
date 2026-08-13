@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-08-12T20:27:25.768Z",
+  "updatedAt": "2026-08-13T03:57:35.710Z",
   "problems": [
     {
       "frontendId": "100",
@@ -42,7 +42,7 @@
           "filename": "0101-symmetric-tree.cpp",
           "path": "0101-symmetric-tree/0101-symmetric-tree.cpp",
           "sha": "5223cc4b1e4d136c96c77661502177bc61bd0379",
-          "lastSyncedAt": "2026-08-12T20:26:40.996Z"
+          "lastSyncedAt": "2026-08-13T03:57:35.710Z"
         }
       ]
     },
