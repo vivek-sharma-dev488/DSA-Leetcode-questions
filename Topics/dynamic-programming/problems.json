@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-13T05:49:04.971Z",
+  "updatedAt": "2026-08-13T05:52:59.607Z",
   "problems": [
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "0022-generate-parentheses/",
+      "readmePath": "0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0022-generate-parentheses.cpp",
+          "path": "0022-generate-parentheses/0022-generate-parentheses.cpp",
+          "sha": "3838960081106e361fa8e060be4e9278b7075f94",
+          "lastSyncedAt": "2026-08-13T05:52:59.607Z"
+        }
+      ]
+    },
     {
       "frontendId": "42",
       "title": "Trapping Rain Water",
