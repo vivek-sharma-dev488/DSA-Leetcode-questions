@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "heap-priority-queue",
+    "name": "Heap (Priority Queue)"
+  },
+  "updatedAt": "2026-08-13T05:55:05.455Z",
+  "problems": [
+    {
+      "frontendId": "658",
+      "title": "Find K Closest Elements",
+      "slug": "find-k-closest-elements",
+      "problemName": "0658-find-k-closest-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements/",
+      "folderPath": "0658-find-k-closest-elements/",
+      "readmePath": "0658-find-k-closest-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0658-find-k-closest-elements.cpp",
+          "path": "0658-find-k-closest-elements/0658-find-k-closest-elements.cpp",
+          "sha": "856a5e673b0c4acdb951a5854be219cc13833336",
+          "lastSyncedAt": "2026-08-13T05:55:05.455Z"
+        }
+      ]
+    }
+  ]
+}
