@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-08-12T20:26:10.431Z",
+  "updatedAt": "2026-08-13T03:57:10.821Z",
   "problems": [
     {
       "frontendId": "24",
@@ -22,7 +22,7 @@
           "filename": "0024-swap-nodes-in-pairs.cpp",
           "path": "0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
           "sha": "ceafe0d2dd597f150dea1c77406f847e49d114b9",
-          "lastSyncedAt": "2026-08-12T20:26:10.431Z"
+          "lastSyncedAt": "2026-08-13T03:57:10.821Z"
         }
       ]
     }
