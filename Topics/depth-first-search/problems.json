@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-12T20:27:33.323Z",
+  "updatedAt": "2026-08-13T03:57:00.680Z",
   "problems": [
     {
       "frontendId": "94",
@@ -22,7 +22,7 @@
           "filename": "0094-binary-tree-inorder-traversal.cpp",
           "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.cpp",
           "sha": "62aa2b17ea909b306441ae89e173b47ac0ef9ce7",
-          "lastSyncedAt": "2026-08-12T20:26:02.220Z"
+          "lastSyncedAt": "2026-08-13T03:57:00.680Z"
         }
       ]
     },
