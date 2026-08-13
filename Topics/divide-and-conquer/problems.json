@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-08-12T20:26:31.683Z",
+  "updatedAt": "2026-08-13T03:57:26.797Z",
   "problems": [
     {
       "frontendId": "240",
@@ -22,7 +22,7 @@
           "filename": "0240-search-a-2d-matrix-ii.cpp",
           "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.cpp",
           "sha": "48fee1af9a49ea9fd29e7c5f87ecf2fe6072b330",
-          "lastSyncedAt": "2026-08-12T20:26:31.683Z"
+          "lastSyncedAt": "2026-08-13T03:57:26.797Z"
         }
       ]
     }
