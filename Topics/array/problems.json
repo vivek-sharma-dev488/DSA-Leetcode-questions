@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T05:51:15.677Z",
+  "updatedAt": "2026-08-13T05:52:11.272Z",
   "problems": [
     {
       "frontendId": "1",
@@ -223,6 +223,26 @@
           "path": "0119-pascals-triangle-ii/0119-pascals-triangle-ii.cpp",
           "sha": "580a2fd2dbe6dd2ca153130c10733e6dfd6cb4c6",
           "lastSyncedAt": "2026-08-13T05:48:13.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0169-majority-element.cpp",
+          "path": "0169-majority-element/0169-majority-element.cpp",
+          "sha": "60fb17bd5a2ec2c9315fbd160be8877b73ead0bb",
+          "lastSyncedAt": "2026-08-13T05:52:11.272Z"
         }
       ]
     },
