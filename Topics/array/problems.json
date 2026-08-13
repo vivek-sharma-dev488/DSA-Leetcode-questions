@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T04:02:38.896Z",
+  "updatedAt": "2026-08-13T04:04:00.412Z",
   "problems": [
     {
       "frontendId": "1",
@@ -43,6 +43,26 @@
           "path": "0031-next-permutation/0031-next-permutation.cpp",
           "sha": "add9bcd7808c48a3cb27b68723bf292741df696d",
           "lastSyncedAt": "2026-08-13T03:57:31.915Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "0042-trapping-rain-water/",
+      "readmePath": "0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0042-trapping-rain-water.cpp",
+          "path": "0042-trapping-rain-water/0042-trapping-rain-water.cpp",
+          "sha": "9151c3b1b6579cab9728732677b7fd08d9ee8801",
+          "lastSyncedAt": "2026-08-13T04:04:00.412Z"
         }
       ]
     },
