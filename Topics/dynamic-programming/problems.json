@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-13T04:04:00.412Z",
+  "updatedAt": "2026-08-13T05:48:13.320Z",
   "problems": [
     {
       "frontendId": "42",
@@ -23,6 +23,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.cpp",
           "sha": "9151c3b1b6579cab9728732677b7fd08d9ee8801",
           "lastSyncedAt": "2026-08-13T04:04:00.412Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "119",
+      "title": "Pascal's Triangle II",
+      "slug": "pascals-triangle-ii",
+      "problemName": "0119-pascals-triangle-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle-ii/",
+      "folderPath": "0119-pascals-triangle-ii/",
+      "readmePath": "0119-pascals-triangle-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0119-pascals-triangle-ii.cpp",
+          "path": "0119-pascals-triangle-ii/0119-pascals-triangle-ii.cpp",
+          "sha": "580a2fd2dbe6dd2ca153130c10733e6dfd6cb4c6",
+          "lastSyncedAt": "2026-08-13T05:48:13.320Z"
         }
       ]
     }
