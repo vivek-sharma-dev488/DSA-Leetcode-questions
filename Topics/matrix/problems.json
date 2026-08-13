@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-08-13T04:02:06.779Z",
+  "updatedAt": "2026-08-13T05:47:40.108Z",
   "problems": [
     {
       "frontendId": "48",
@@ -43,6 +43,26 @@
           "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.cpp",
           "sha": "48fee1af9a49ea9fd29e7c5f87ecf2fe6072b330",
           "lastSyncedAt": "2026-08-13T03:57:26.797Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "861",
+      "title": "Score After Flipping Matrix",
+      "slug": "score-after-flipping-matrix",
+      "problemName": "0861-score-after-flipping-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/score-after-flipping-matrix/",
+      "folderPath": "0861-score-after-flipping-matrix/",
+      "readmePath": "0861-score-after-flipping-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0861-score-after-flipping-matrix.cpp",
+          "path": "0861-score-after-flipping-matrix/0861-score-after-flipping-matrix.cpp",
+          "sha": "6cbd9506d999163f6534915ea4d45cbf485f3307",
+          "lastSyncedAt": "2026-08-13T05:47:40.108Z"
         }
       ]
     },
