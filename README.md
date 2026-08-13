@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 14 | 7 | 1 |
+| 23 | 14 | 8 | 1 |
 
 ## Activity
 
@@ -20,32 +20,32 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-08-08 | 1 |
 | 2026-08-09 | 6 |
 | 2026-08-10 | 2 |
-| 2026-08-13 | 10 |
+| 2026-08-13 | 11 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 8 | 36% |
-| Binary Tree | 7 | 32% |
-| Depth-First Search | 7 | 32% |
-| Linked List | 7 | 32% |
-| Tree | 7 | 32% |
-| Two Pointers | 5 | 23% |
-| Breadth-First Search | 3 | 14% |
-| Hash Table | 3 | 14% |
-| Matrix | 3 | 14% |
-| Stack | 3 | 14% |
+| Array | 9 | 39% |
+| Binary Tree | 7 | 30% |
+| Depth-First Search | 7 | 30% |
+| Linked List | 7 | 30% |
+| Tree | 7 | 30% |
+| Two Pointers | 5 | 22% |
+| Matrix | 4 | 17% |
+| Breadth-First Search | 3 | 13% |
+| Hash Table | 3 | 13% |
+| Stack | 3 | 13% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 9 |
+| [Array](Topics/array/) | 10 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 7 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 7 |
@@ -54,11 +54,12 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
+| [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 7 |
 | [Math](Topics/math/) | 1 |
-| [Matrix](Topics/matrix/) | 3 |
+| [Matrix](Topics/matrix/) | 4 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
