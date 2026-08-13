@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 13 | 6 | 0 |
+| 20 | 13 | 6 | 1 |
 
 ## Activity
 
@@ -20,28 +20,28 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-08-08 | 1 |
 | 2026-08-09 | 6 |
 | 2026-08-10 | 2 |
-| 2026-08-13 | 7 |
+| 2026-08-13 | 8 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 7 | 37% |
-| Depth-First Search | 7 | 37% |
-| Linked List | 7 | 37% |
-| Tree | 7 | 37% |
-| Array | 5 | 26% |
-| Two Pointers | 4 | 21% |
-| Breadth-First Search | 3 | 16% |
-| Hash Table | 3 | 16% |
-| Matrix | 3 | 16% |
-| Stack | 2 | 11% |
+| Binary Tree | 7 | 35% |
+| Depth-First Search | 7 | 35% |
+| Linked List | 7 | 35% |
+| Tree | 7 | 35% |
+| Array | 6 | 30% |
+| Two Pointers | 5 | 25% |
+| Breadth-First Search | 3 | 15% |
+| Hash Table | 3 | 15% |
+| Matrix | 3 | 15% |
+| Stack | 3 | 15% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 6 |
+| [Array](Topics/array/) | 7 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 7 |
@@ -51,7 +51,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Depth-First Search](Topics/depth-first-search/) | 7 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 0 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 3 |
@@ -59,11 +59,12 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Linked List](Topics/linked-list/) | 7 |
 | [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 3 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
-| [Stack](Topics/stack/) | 2 |
+| [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 1 |
 | [Tree](Topics/tree/) | 7 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
