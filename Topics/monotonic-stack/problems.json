@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "monotonic-stack",
+    "name": "Monotonic Stack"
+  },
+  "updatedAt": "2026-08-13T04:04:00.412Z",
+  "problems": [
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "0042-trapping-rain-water/",
+      "readmePath": "0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0042-trapping-rain-water.cpp",
+          "path": "0042-trapping-rain-water/0042-trapping-rain-water.cpp",
+          "sha": "9151c3b1b6579cab9728732677b7fd08d9ee8801",
+          "lastSyncedAt": "2026-08-13T04:04:00.412Z"
+        }
+      ]
+    }
+  ]
+}
