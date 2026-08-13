@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 19 | 11 | 1 |
+| 33 | 19 | 13 | 1 |
 
 ## Activity
 
@@ -20,29 +20,29 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-08-08 | 1 |
 | 2026-08-09 | 6 |
 | 2026-08-10 | 2 |
-| 2026-08-13 | 19 |
+| 2026-08-13 | 21 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 52% |
-| Binary Search | 7 | 23% |
-| Binary Tree | 7 | 23% |
-| Depth-First Search | 7 | 23% |
-| Linked List | 7 | 23% |
-| Tree | 7 | 23% |
-| Two Pointers | 5 | 16% |
-| Hash Table | 4 | 13% |
-| Matrix | 4 | 13% |
-| Breadth-First Search | 3 | 10% |
+| Array | 16 | 48% |
+| Binary Search | 7 | 21% |
+| Binary Tree | 7 | 21% |
+| Depth-First Search | 7 | 21% |
+| Linked List | 7 | 21% |
+| Tree | 7 | 21% |
+| Two Pointers | 5 | 15% |
+| Dynamic Programming | 4 | 12% |
+| Hash Table | 4 | 12% |
+| Matrix | 4 | 12% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 17 |
-| [Backtracking](Topics/backtracking/) | 2 |
+| [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Tree](Topics/binary-tree/) | 7 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
@@ -53,7 +53,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Depth-First Search](Topics/depth-first-search/) | 7 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
@@ -68,7 +68,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 2 |
+| [String](Topics/string/) | 3 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 7 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
