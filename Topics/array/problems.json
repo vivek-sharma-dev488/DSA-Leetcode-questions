@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T05:55:05.455Z",
+  "updatedAt": "2026-08-14T19:14:37.854Z",
   "problems": [
     {
       "frontendId": "1",
@@ -423,6 +423,26 @@
           "path": "0867-transpose-matrix/0867-transpose-matrix.cpp",
           "sha": "48ca05bc8a5c43811af3ff978560006cf30c9155",
           "lastSyncedAt": "2026-08-13T04:02:06.779Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2956",
+      "title": "Find Common Elements Between Two Arrays",
+      "slug": "find-common-elements-between-two-arrays",
+      "problemName": "2956-find-common-elements-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-common-elements-between-two-arrays/",
+      "folderPath": "2956-find-common-elements-between-two-arrays/",
+      "readmePath": "2956-find-common-elements-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2956-find-common-elements-between-two-arrays.cpp",
+          "path": "2956-find-common-elements-between-two-arrays/2956-find-common-elements-between-two-arrays.cpp",
+          "sha": "73219bb1dba914d11ae0904097665b1a134a784c",
+          "lastSyncedAt": "2026-08-14T19:14:37.854Z"
         }
       ]
     }
