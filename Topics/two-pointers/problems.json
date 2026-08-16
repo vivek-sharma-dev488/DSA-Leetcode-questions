@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-15T08:17:15.206Z",
+  "updatedAt": "2026-08-16T20:48:31.803Z",
   "problems": [
     {
       "frontendId": "31",
@@ -143,6 +143,26 @@
           "path": "0658-find-k-closest-elements/0658-find-k-closest-elements.cpp",
           "sha": "856a5e673b0c4acdb951a5854be219cc13833336",
           "lastSyncedAt": "2026-08-13T05:55:05.455Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "0881-boats-to-save-people/",
+      "readmePath": "0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0881-boats-to-save-people.cpp",
+          "path": "0881-boats-to-save-people/0881-boats-to-save-people.cpp",
+          "sha": "29c82998c269cdcb5b67be4cffb50101e382bf8d",
+          "lastSyncedAt": "2026-08-16T20:48:31.803Z"
         }
       ]
     },
