@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-13T05:47:40.108Z",
+  "updatedAt": "2026-08-16T20:48:31.803Z",
   "problems": [
     {
       "frontendId": "861",
@@ -23,6 +23,26 @@
           "path": "0861-score-after-flipping-matrix/0861-score-after-flipping-matrix.cpp",
           "sha": "6cbd9506d999163f6534915ea4d45cbf485f3307",
           "lastSyncedAt": "2026-08-13T05:47:40.108Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "0881-boats-to-save-people/",
+      "readmePath": "0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0881-boats-to-save-people.cpp",
+          "path": "0881-boats-to-save-people/0881-boats-to-save-people.cpp",
+          "sha": "29c82998c269cdcb5b67be4cffb50101e382bf8d",
+          "lastSyncedAt": "2026-08-16T20:48:31.803Z"
         }
       ]
     }
