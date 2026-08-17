@@ -60,7 +60,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 2 |
+| [greedy](Topics/greedy/) | 0 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
