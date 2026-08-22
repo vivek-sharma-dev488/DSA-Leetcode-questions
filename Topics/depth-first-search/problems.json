@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-13T03:58:14.892Z",
+  "updatedAt": "2026-08-22T18:23:04.413Z",
   "problems": [
     {
       "frontendId": "94",
@@ -83,6 +83,26 @@
           "path": "0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.cpp",
           "sha": "54cba4edc0a1d6285b7e793d9badd0a6a8967019",
           "lastSyncedAt": "2026-08-13T03:57:15.528Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "problemName": "0199-binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "folderPath": "0199-binary-tree-right-side-view/",
+      "readmePath": "0199-binary-tree-right-side-view/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0199-binary-tree-right-side-view.cpp",
+          "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.cpp",
+          "sha": "a3b0a63aa77e942352bb18b2fe768f428d369043",
+          "lastSyncedAt": "2026-08-22T18:23:04.413Z"
         }
       ]
     },
