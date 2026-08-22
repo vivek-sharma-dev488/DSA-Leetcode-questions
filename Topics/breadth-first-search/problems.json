@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-08-22T18:54:05.259Z",
+  "updatedAt": "2026-08-22T19:02:14.434Z",
   "problems": [
     {
       "frontendId": "100",
@@ -102,7 +102,7 @@
           "filename": "0199-binary-tree-right-side-view.cpp",
           "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.cpp",
           "sha": "a3b0a63aa77e942352bb18b2fe768f428d369043",
-          "lastSyncedAt": "2026-08-22T18:54:05.259Z"
+          "lastSyncedAt": "2026-08-22T19:02:14.434Z"
         }
       ]
     },
