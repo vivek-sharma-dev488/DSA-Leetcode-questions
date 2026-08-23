@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-23T12:23:49.146Z",
+  "updatedAt": "2026-08-23T13:17:14.617Z",
   "problems": [
     {
       "frontendId": "94",
@@ -63,6 +63,26 @@
           "path": "0101-symmetric-tree/0101-symmetric-tree.cpp",
           "sha": "5223cc4b1e4d136c96c77661502177bc61bd0379",
           "lastSyncedAt": "2026-08-13T03:57:35.710Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "problemName": "0112-path-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
+      "folderPath": "0112-path-sum/",
+      "readmePath": "0112-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0112-path-sum.cpp",
+          "path": "0112-path-sum/0112-path-sum.cpp",
+          "sha": "d3356ba0bd8105850f37efcfe2fdd0a0ae865515",
+          "lastSyncedAt": "2026-08-23T13:17:14.617Z"
         }
       ]
     },
