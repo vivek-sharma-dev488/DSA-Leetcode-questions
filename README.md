@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 21 | 24 | 1 |
+| 47 | 22 | 24 | 1 |
 
 ## Activity
 
@@ -26,22 +26,22 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-08-17 | 1 |
 | 2026-08-19 | 1 |
 | 2026-08-22 | 1 |
-| 2026-08-23 | 2 |
+| 2026-08-23 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 52% |
+| Array | 24 | 51% |
 | Binary Tree | 12 | 26% |
 | Tree | 12 | 26% |
-| Binary Search | 10 | 22% |
-| Depth-First Search | 10 | 22% |
+| Binary Search | 10 | 21% |
+| Depth-First Search | 10 | 21% |
 | Two Pointers | 8 | 17% |
 | Backtracking | 7 | 15% |
 | Breadth-First Search | 7 | 15% |
 | Linked List | 7 | 15% |
-| Hash Table | 5 | 11% |
+| Hash Table | 6 | 13% |
 
 ## Topics
 
@@ -64,7 +64,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 5 |
+| [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 7 |
@@ -75,9 +75,9 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 3 |
+| [String](Topics/string/) | 4 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tree](Topics/tree/) | 12 |
