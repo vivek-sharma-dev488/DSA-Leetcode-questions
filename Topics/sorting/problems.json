@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-16T20:48:31.803Z",
+  "updatedAt": "2026-08-23T17:59:29.172Z",
   "problems": [
     {
       "frontendId": "88",
@@ -43,6 +43,26 @@
           "path": "0169-majority-element/0169-majority-element.cpp",
           "sha": "60fb17bd5a2ec2c9315fbd160be8877b73ead0bb",
           "lastSyncedAt": "2026-08-13T05:52:11.272Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0242-valid-anagram.cpp",
+          "path": "0242-valid-anagram/0242-valid-anagram.cpp",
+          "sha": "643fe574e2b638ec130042a8eaa555f486882b32",
+          "lastSyncedAt": "2026-08-23T17:59:29.172Z"
         }
       ]
     },
