@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-23T12:23:49.146Z",
+  "updatedAt": "2026-08-23T13:17:14.617Z",
   "problems": [
     {
       "frontendId": "94",
@@ -103,6 +103,26 @@
           "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.cpp",
           "sha": "1d2ce7c0f22cc4a0d1813d662197949b2064c0b2",
           "lastSyncedAt": "2026-08-13T20:22:49.608Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "problemName": "0112-path-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
+      "folderPath": "0112-path-sum/",
+      "readmePath": "0112-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0112-path-sum.cpp",
+          "path": "0112-path-sum/0112-path-sum.cpp",
+          "sha": "d3356ba0bd8105850f37efcfe2fdd0a0ae865515",
+          "lastSyncedAt": "2026-08-23T13:17:14.617Z"
         }
       ]
     },
