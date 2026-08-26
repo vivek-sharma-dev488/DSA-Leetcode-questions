@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 49 | 23 | 25 | 1 |
+| 50 | 23 | 26 | 1 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-08-22 | 1 |
 | 2026-08-23 | 3 |
 | 2026-08-24 | 1 |
-| 2026-08-26 | 1 |
+| 2026-08-26 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 51% |
-| Binary Tree | 13 | 27% |
-| Tree | 13 | 27% |
+| Array | 25 | 50% |
+| Binary Tree | 13 | 26% |
+| Tree | 13 | 26% |
 | Binary Search | 10 | 20% |
 | Depth-First Search | 10 | 20% |
-| Two Pointers | 9 | 18% |
+| Two Pointers | 10 | 20% |
 | Backtracking | 7 | 14% |
 | Breadth-First Search | 7 | 14% |
 | Hash Table | 7 | 14% |
@@ -79,9 +79,9 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 5 |
+| [String](Topics/string/) | 6 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tree](Topics/tree/) | 13 |
-| [Two Pointers](Topics/two-pointers/) | 10 |
+| [Two Pointers](Topics/two-pointers/) | 11 |
 <!---LeetHub Summary End-->
