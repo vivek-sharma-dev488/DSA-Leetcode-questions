@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-08-23T13:17:14.617Z",
+  "updatedAt": "2026-08-26T10:52:53.438Z",
   "problems": [
     {
       "frontendId": "94",
@@ -103,6 +103,26 @@
           "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.cpp",
           "sha": "1d2ce7c0f22cc4a0d1813d662197949b2064c0b2",
           "lastSyncedAt": "2026-08-13T20:22:49.608Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "105",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "problemName": "0105-construct-binary-tree-from-preorder-and-inorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "folderPath": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "readmePath": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
+          "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
+          "sha": "ddfc655452fb1fad988831a80d95dceb701c61f1",
+          "lastSyncedAt": "2026-08-26T10:52:53.438Z"
         }
       ]
     },
