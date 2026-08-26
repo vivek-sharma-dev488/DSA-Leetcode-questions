@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-24T18:48:45.043Z",
+  "updatedAt": "2026-08-26T17:30:14.950Z",
   "problems": [
     {
       "frontendId": "22",
@@ -103,6 +103,26 @@
           "path": "0257-binary-tree-paths/0257-binary-tree-paths.cpp",
           "sha": "9e842084e7df0339e3cad93ebc78a5a31c484e96",
           "lastSyncedAt": "2026-08-13T03:57:52.804Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "443",
+      "title": "String Compression",
+      "slug": "string-compression",
+      "problemName": "0443-string-compression",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+      "folderPath": "0443-string-compression/",
+      "readmePath": "0443-string-compression/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0443-string-compression.cpp",
+          "path": "0443-string-compression/0443-string-compression.cpp",
+          "sha": "9996f3b0920d02b495bfdaf617622e17646ac416",
+          "lastSyncedAt": "2026-08-26T17:30:14.950Z"
         }
       ]
     }
