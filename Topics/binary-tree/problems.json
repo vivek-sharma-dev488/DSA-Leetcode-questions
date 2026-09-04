@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-08-26T10:52:53.438Z",
+  "updatedAt": "2026-09-04T06:20:11.452Z",
   "problems": [
     {
       "frontendId": "94",
@@ -243,6 +243,26 @@
           "path": "0257-binary-tree-paths/0257-binary-tree-paths.cpp",
           "sha": "9e842084e7df0339e3cad93ebc78a5a31c484e96",
           "lastSyncedAt": "2026-08-13T03:57:52.804Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "437",
+      "title": "Path Sum III",
+      "slug": "path-sum-iii",
+      "problemName": "0437-path-sum-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum-iii/",
+      "folderPath": "0437-path-sum-iii/",
+      "readmePath": "0437-path-sum-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0437-path-sum-iii.cpp",
+          "path": "0437-path-sum-iii/0437-path-sum-iii.cpp",
+          "sha": "955375a8880bbff0511d637c3fc6a3acdc3a4059",
+          "lastSyncedAt": "2026-09-04T06:20:11.452Z"
         }
       ]
     },
