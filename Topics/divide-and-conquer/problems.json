@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-08-26T10:52:53.438Z",
+  "updatedAt": "2026-09-04T07:59:14.241Z",
   "problems": [
     {
       "frontendId": "105",
@@ -23,6 +23,26 @@
           "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
           "sha": "ddfc655452fb1fad988831a80d95dceb701c61f1",
           "lastSyncedAt": "2026-08-26T10:52:53.438Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "106",
+      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+      "problemName": "0106-construct-binary-tree-from-inorder-and-postorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+      "folderPath": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/",
+      "readmePath": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
+          "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
+          "sha": "900c43b6e31a53ea84a9dfdabcb44e8838a9b6c9",
+          "lastSyncedAt": "2026-09-04T07:59:14.241Z"
         }
       ]
     },
