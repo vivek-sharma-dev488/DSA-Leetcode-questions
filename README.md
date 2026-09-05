@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 54 | 24 | 29 | 1 |
+| 55 | 24 | 30 | 1 |
 
 ## Activity
 
@@ -29,18 +29,18 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-08-24 | 1 |
 | 2026-08-26 | 2 |
 | 2026-09-04 | 2 |
-| 2026-09-05 | 2 |
+| 2026-09-05 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 48% |
+| Array | 26 | 47% |
 | Binary Tree | 17 | 31% |
 | Tree | 17 | 31% |
 | Depth-First Search | 11 | 20% |
-| Binary Search | 10 | 19% |
-| Two Pointers | 10 | 19% |
+| Binary Search | 10 | 18% |
+| Two Pointers | 10 | 18% |
 | Hash Table | 8 | 15% |
 | Backtracking | 7 | 13% |
 | Breadth-First Search | 7 | 13% |
@@ -72,11 +72,11 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 7 |
-| [Math](Topics/math/) | 2 |
+| [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 5 |
