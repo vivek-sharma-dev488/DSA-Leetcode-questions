@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-05T05:36:06.892Z",
+  "updatedAt": "2026-09-05T06:04:27.169Z",
   "problems": [
     {
       "frontendId": "94",
@@ -323,6 +323,26 @@
           "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.cpp",
           "sha": "d60d9df8e2f5db773cb998894af9c0187dd392e5",
           "lastSyncedAt": "2026-09-05T05:36:06.892Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "701",
+      "title": "Insert into a Binary Search Tree",
+      "slug": "insert-into-a-binary-search-tree",
+      "problemName": "0701-insert-into-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+      "folderPath": "0701-insert-into-a-binary-search-tree/",
+      "readmePath": "0701-insert-into-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0701-insert-into-a-binary-search-tree.cpp",
+          "path": "0701-insert-into-a-binary-search-tree/0701-insert-into-a-binary-search-tree.cpp",
+          "sha": "55e4558f09dd1c838fae2b24d0f4bdb8510a56bb",
+          "lastSyncedAt": "2026-09-05T06:04:27.169Z"
         }
       ]
     }
