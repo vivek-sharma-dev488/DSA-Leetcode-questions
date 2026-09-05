@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-04T07:59:14.241Z",
+  "updatedAt": "2026-09-05T05:36:06.892Z",
   "problems": [
     {
       "frontendId": "94",
@@ -303,6 +303,26 @@
           "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.cpp",
           "sha": "4c56f128f29b813246aff46dceff0fa51d36b195",
           "lastSyncedAt": "2026-08-13T03:58:14.892Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "700",
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "problemName": "0700-search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+      "folderPath": "0700-search-in-a-binary-search-tree/",
+      "readmePath": "0700-search-in-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0700-search-in-a-binary-search-tree.cpp",
+          "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.cpp",
+          "sha": "d60d9df8e2f5db773cb998894af9c0187dd392e5",
+          "lastSyncedAt": "2026-09-05T05:36:06.892Z"
         }
       ]
     }
