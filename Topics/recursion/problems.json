@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-08-13T03:57:10.821Z",
+  "updatedAt": "2026-09-05T10:39:33.352Z",
   "problems": [
     {
       "frontendId": "24",
@@ -23,6 +23,26 @@
           "path": "0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
           "sha": "ceafe0d2dd597f150dea1c77406f847e49d114b9",
           "lastSyncedAt": "2026-08-13T03:57:10.821Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0050-powx-n.cpp",
+          "path": "0050-powx-n/0050-powx-n.cpp",
+          "sha": "6952ef0ccdb1045fef2c21f7819a57df02bbfb91",
+          "lastSyncedAt": "2026-09-05T10:39:33.352Z"
         }
       ]
     }
