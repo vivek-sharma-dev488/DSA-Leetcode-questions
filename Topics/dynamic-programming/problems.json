@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-05T10:41:45.956Z",
+  "updatedAt": "2026-09-06T04:56:50.349Z",
   "problems": [
     {
       "frontendId": "22",
@@ -43,6 +43,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.cpp",
           "sha": "9151c3b1b6579cab9728732677b7fd08d9ee8801",
           "lastSyncedAt": "2026-08-13T04:04:00.412Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "115",
+      "title": "Distinct Subsequences",
+      "slug": "distinct-subsequences",
+      "problemName": "0115-distinct-subsequences",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences/",
+      "folderPath": "0115-distinct-subsequences/",
+      "readmePath": "0115-distinct-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0115-distinct-subsequences.cpp",
+          "path": "0115-distinct-subsequences/0115-distinct-subsequences.cpp",
+          "sha": "c4839fb0dbd6b946e49bfe0141a892ce46bb7928",
+          "lastSyncedAt": "2026-09-06T04:56:50.349Z"
         }
       ]
     },
