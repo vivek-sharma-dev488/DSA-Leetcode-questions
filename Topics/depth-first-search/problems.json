@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-06T05:10:00.214Z",
+  "updatedAt": "2026-09-08T13:34:36.854Z",
   "problems": [
     {
       "frontendId": "94",
@@ -23,6 +23,26 @@
           "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.cpp",
           "sha": "62aa2b17ea909b306441ae89e173b47ac0ef9ce7",
           "lastSyncedAt": "2026-08-13T03:57:00.680Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "problemName": "0098-validate-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "folderPath": "0098-validate-binary-search-tree/",
+      "readmePath": "0098-validate-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0098-validate-binary-search-tree.cpp",
+          "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.cpp",
+          "sha": "a245bcd4488186975dd75c3f5ecd6fefef79b1e2",
+          "lastSyncedAt": "2026-09-08T13:34:36.854Z"
         }
       ]
     },
