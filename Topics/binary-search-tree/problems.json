@@ -4,7 +4,7 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-09-08T13:34:36.854Z",
+  "updatedAt": "2026-09-08T14:18:37.140Z",
   "problems": [
     {
       "frontendId": "98",
@@ -83,6 +83,26 @@
           "path": "0701-insert-into-a-binary-search-tree/0701-insert-into-a-binary-search-tree.cpp",
           "sha": "55e4558f09dd1c838fae2b24d0f4bdb8510a56bb",
           "lastSyncedAt": "2026-09-05T06:04:27.169Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1038",
+      "title": "Binary Search Tree to Greater Sum Tree",
+      "slug": "binary-search-tree-to-greater-sum-tree",
+      "problemName": "1038-binary-search-tree-to-greater-sum-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/",
+      "folderPath": "1038-binary-search-tree-to-greater-sum-tree/",
+      "readmePath": "1038-binary-search-tree-to-greater-sum-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1038-binary-search-tree-to-greater-sum-tree.cpp",
+          "path": "1038-binary-search-tree-to-greater-sum-tree/1038-binary-search-tree-to-greater-sum-tree.cpp",
+          "sha": "98cad4a2f5129745bbb9d675c3dc81c2144d2985",
+          "lastSyncedAt": "2026-09-08T14:18:37.140Z"
         }
       ]
     }
