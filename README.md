@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 60 | 25 | 33 | 2 |
+| 61 | 26 | 33 | 2 |
 
 ## Activity
 
@@ -29,33 +29,33 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-09-04 | 2 |
 | 2026-09-05 | 4 |
 | 2026-09-06 | 2 |
-| 2026-09-08 | 2 |
+| 2026-09-08 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 43% |
-| Binary Tree | 20 | 33% |
-| Tree | 20 | 33% |
+| Array | 27 | 44% |
+| Binary Tree | 21 | 34% |
+| Tree | 21 | 34% |
 | Depth-First Search | 14 | 23% |
-| Binary Search | 10 | 17% |
-| Two Pointers | 10 | 17% |
+| Binary Search | 10 | 16% |
+| Two Pointers | 10 | 16% |
 | Hash Table | 8 | 13% |
-| Backtracking | 7 | 12% |
-| Breadth-First Search | 7 | 12% |
-| Linked List | 7 | 12% |
+| Backtracking | 7 | 11% |
+| Breadth-First Search | 7 | 11% |
+| Linked List | 7 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 27 |
+| [Array](Topics/array/) | 28 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 10 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 5 |
-| [Binary Tree](Topics/binary-tree/) | 20 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 6 |
+| [Binary Tree](Topics/binary-tree/) | 21 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
@@ -63,7 +63,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 14 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
@@ -87,6 +87,6 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [String](Topics/string/) | 7 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
-| [Tree](Topics/tree/) | 20 |
+| [Tree](Topics/tree/) | 21 |
 | [Two Pointers](Topics/two-pointers/) | 11 |
 <!---LeetHub Summary End-->
