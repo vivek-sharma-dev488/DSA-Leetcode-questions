@@ -4,7 +4,7 @@
     "slug": "monotonic-stack",
     "name": "Monotonic Stack"
   },
-  "updatedAt": "2026-08-13T04:04:00.412Z",
+  "updatedAt": "2026-09-09T13:24:29.629Z",
   "problems": [
     {
       "frontendId": "42",
@@ -23,6 +23,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.cpp",
           "sha": "9151c3b1b6579cab9728732677b7fd08d9ee8801",
           "lastSyncedAt": "2026-08-13T04:04:00.412Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1008",
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "slug": "construct-binary-search-tree-from-preorder-traversal",
+      "problemName": "1008-construct-binary-search-tree-from-preorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+      "folderPath": "1008-construct-binary-search-tree-from-preorder-traversal/",
+      "readmePath": "1008-construct-binary-search-tree-from-preorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1008-construct-binary-search-tree-from-preorder-traversal.cpp",
+          "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.cpp",
+          "sha": "8cecb5ca13fac16474e76dcc502196d33e920f4b",
+          "lastSyncedAt": "2026-09-09T13:24:29.629Z"
         }
       ]
     }
