@@ -6,17 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 62 | 26 | 34 | 2 |
+| 63 | 26 | 35 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 4 days | 18 |
+| 3 days | 4 days | 19 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-13 | 26 |
 | 2026-08-14 | 1 |
 | 2026-08-15 | 2 |
 | 2026-08-17 | 1 |
@@ -30,20 +29,21 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-09-06 | 2 |
 | 2026-09-08 | 3 |
 | 2026-09-09 | 1 |
+| 2026-09-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 45% |
-| Binary Tree | 22 | 35% |
-| Tree | 22 | 35% |
-| Depth-First Search | 14 | 23% |
+| Array | 28 | 44% |
+| Binary Tree | 23 | 37% |
+| Tree | 23 | 37% |
+| Depth-First Search | 14 | 22% |
 | Binary Search | 10 | 16% |
 | Two Pointers | 10 | 16% |
+| Binary Search Tree | 8 | 13% |
 | Hash Table | 8 | 13% |
 | Backtracking | 7 | 11% |
-| Binary Search Tree | 7 | 11% |
 | Breadth-First Search | 7 | 11% |
 
 ## Topics
@@ -54,8 +54,8 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 10 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 7 |
-| [Binary Tree](Topics/binary-tree/) | 22 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 8 |
+| [Binary Tree](Topics/binary-tree/) | 23 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
@@ -87,6 +87,6 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [String](Topics/string/) | 7 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
-| [Tree](Topics/tree/) | 22 |
+| [Tree](Topics/tree/) | 23 |
 | [Two Pointers](Topics/two-pointers/) | 11 |
 <!---LeetHub Summary End-->
