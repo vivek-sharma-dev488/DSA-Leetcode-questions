@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-09T15:50:44.950Z",
+  "updatedAt": "2026-09-10T14:37:40.259Z",
   "problems": [
     {
       "frontendId": "22",
@@ -22,7 +22,7 @@
           "filename": "0022-generate-parentheses.cpp",
           "path": "0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "3838960081106e361fa8e060be4e9278b7075f94",
-          "lastSyncedAt": "2026-09-09T15:50:44.950Z"
+          "lastSyncedAt": "2026-09-10T14:37:40.259Z"
         }
       ]
     },
