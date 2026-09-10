@@ -4,7 +4,7 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-09-09T13:24:29.629Z",
+  "updatedAt": "2026-09-10T13:24:42.712Z",
   "problems": [
     {
       "frontendId": "98",
@@ -63,6 +63,26 @@
           "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
           "sha": "eeb3245ce62b6af4258b192f5c6b840d628cfd95",
           "lastSyncedAt": "2026-09-06T05:10:00.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "450",
+      "title": "Delete Node in a BST",
+      "slug": "delete-node-in-a-bst",
+      "problemName": "0450-delete-node-in-a-bst",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-bst/",
+      "folderPath": "0450-delete-node-in-a-bst/",
+      "readmePath": "0450-delete-node-in-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0450-delete-node-in-a-bst.cpp",
+          "path": "0450-delete-node-in-a-bst/0450-delete-node-in-a-bst.cpp",
+          "sha": "3748f4d9aac8eaf676821267e7f73c5ae1adfa53",
+          "lastSyncedAt": "2026-09-10T13:24:42.712Z"
         }
       ]
     },
