@@ -4,7 +4,7 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-09-10T13:24:42.712Z",
+  "updatedAt": "2026-09-12T14:47:24.079Z",
   "problems": [
     {
       "frontendId": "98",
@@ -83,6 +83,26 @@
           "path": "0450-delete-node-in-a-bst/0450-delete-node-in-a-bst.cpp",
           "sha": "3748f4d9aac8eaf676821267e7f73c5ae1adfa53",
           "lastSyncedAt": "2026-09-10T13:24:42.712Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "669",
+      "title": "Trim a Binary Search Tree",
+      "slug": "trim-a-binary-search-tree",
+      "problemName": "0669-trim-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/trim-a-binary-search-tree/",
+      "folderPath": "0669-trim-a-binary-search-tree/",
+      "readmePath": "0669-trim-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0669-trim-a-binary-search-tree.cpp",
+          "path": "0669-trim-a-binary-search-tree/0669-trim-a-binary-search-tree.cpp",
+          "sha": "a0620ca0cb3f057ee46e94f09a00c712d1d74319",
+          "lastSyncedAt": "2026-09-12T14:47:24.079Z"
         }
       ]
     },
