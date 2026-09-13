@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-13T04:26:28.184Z",
+  "updatedAt": "2026-09-13T04:40:45.265Z",
   "problems": [
     {
       "frontendId": "94",
@@ -142,7 +142,7 @@
           "filename": "0114-flatten-binary-tree-to-linked-list.cpp",
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.cpp",
           "sha": "1f7c8aa7d7c92f90e717fb33b223b0d445625b07",
-          "lastSyncedAt": "2026-09-13T04:26:28.184Z"
+          "lastSyncedAt": "2026-09-13T04:40:45.265Z"
         }
       ]
     },
