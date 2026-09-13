@@ -6,17 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 64 | 26 | 36 | 2 |
+| 65 | 26 | 37 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 20 |
+| 2 days | 4 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-15 | 2 |
 | 2026-08-17 | 1 |
 | 2026-08-19 | 1 |
 | 2026-08-22 | 1 |
@@ -30,21 +29,22 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-09-09 | 1 |
 | 2026-09-10 | 1 |
 | 2026-09-12 | 1 |
+| 2026-09-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 44% |
-| Binary Tree | 24 | 38% |
-| Tree | 24 | 38% |
-| Depth-First Search | 15 | 23% |
-| Binary Search | 10 | 16% |
-| Two Pointers | 10 | 16% |
+| Array | 28 | 43% |
+| Binary Tree | 25 | 38% |
+| Tree | 25 | 38% |
+| Depth-First Search | 16 | 25% |
+| Binary Search | 10 | 15% |
+| Two Pointers | 10 | 15% |
 | Binary Search Tree | 9 | 14% |
-| Hash Table | 8 | 13% |
+| Hash Table | 8 | 12% |
+| Linked List | 8 | 12% |
 | Backtracking | 7 | 11% |
-| Breadth-First Search | 7 | 11% |
 
 ## Topics
 
@@ -55,14 +55,14 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 9 |
-| [Binary Tree](Topics/binary-tree/) | 24 |
+| [Binary Tree](Topics/binary-tree/) | 25 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 7 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 15 |
+| [Depth-First Search](Topics/depth-first-search/) | 16 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
@@ -72,7 +72,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Hash Table](Topics/hash-table/) | 8 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 7 |
+| [Linked List](Topics/linked-list/) | 8 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 4 |
@@ -83,10 +83,10 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 5 |
-| [Stack](Topics/stack/) | 4 |
+| [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 7 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
-| [Tree](Topics/tree/) | 24 |
+| [Tree](Topics/tree/) | 25 |
 | [Two Pointers](Topics/two-pointers/) | 11 |
 <!---LeetHub Summary End-->
