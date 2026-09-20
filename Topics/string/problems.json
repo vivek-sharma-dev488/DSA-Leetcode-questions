@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-19T09:08:50.838Z",
+  "updatedAt": "2026-09-20T07:04:35.810Z",
   "problems": [
     {
       "frontendId": "22",
@@ -143,6 +143,26 @@
           "path": "0443-string-compression/0443-string-compression.cpp",
           "sha": "9996f3b0920d02b495bfdaf617622e17646ac416",
           "lastSyncedAt": "2026-08-26T17:30:14.950Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1957",
+      "title": "Delete Characters to Make Fancy String",
+      "slug": "delete-characters-to-make-fancy-string",
+      "problemName": "1957-delete-characters-to-make-fancy-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-characters-to-make-fancy-string/",
+      "folderPath": "1957-delete-characters-to-make-fancy-string/",
+      "readmePath": "1957-delete-characters-to-make-fancy-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1957-delete-characters-to-make-fancy-string.cpp",
+          "path": "1957-delete-characters-to-make-fancy-string/1957-delete-characters-to-make-fancy-string.cpp",
+          "sha": "c5b16a42f87564c8b5b1cbd62715c472ccd9f618",
+          "lastSyncedAt": "2026-09-20T07:04:35.810Z"
         }
       ]
     }
