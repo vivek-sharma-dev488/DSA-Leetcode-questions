@@ -6,17 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 65 | 26 | 37 | 2 |
+| 66 | 27 | 37 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 4 days | 21 |
+| 1 days | 4 days | 22 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-17 | 1 |
 | 2026-08-19 | 1 |
 | 2026-08-22 | 1 |
 | 2026-08-23 | 3 |
@@ -30,21 +29,22 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-09-10 | 1 |
 | 2026-09-12 | 1 |
 | 2026-09-13 | 1 |
+| 2026-09-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 43% |
+| Array | 28 | 42% |
 | Binary Tree | 25 | 38% |
 | Tree | 25 | 38% |
-| Depth-First Search | 16 | 25% |
+| Depth-First Search | 16 | 24% |
 | Binary Search | 10 | 15% |
 | Two Pointers | 10 | 15% |
 | Binary Search Tree | 9 | 14% |
 | Hash Table | 8 | 12% |
 | Linked List | 8 | 12% |
-| Backtracking | 7 | 11% |
+| String | 8 | 12% |
 
 ## Topics
 
@@ -84,7 +84,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tree](Topics/tree/) | 25 |
