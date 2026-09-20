@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-20T07:04:35.810Z",
+  "updatedAt": "2026-09-20T07:05:46.943Z",
   "problems": [
     {
       "frontendId": "22",
@@ -162,7 +162,7 @@
           "filename": "1957-delete-characters-to-make-fancy-string.cpp",
           "path": "1957-delete-characters-to-make-fancy-string/1957-delete-characters-to-make-fancy-string.cpp",
           "sha": "c5b16a42f87564c8b5b1cbd62715c472ccd9f618",
-          "lastSyncedAt": "2026-09-20T07:04:35.810Z"
+          "lastSyncedAt": "2026-09-20T07:05:46.943Z"
         }
       ]
     }
