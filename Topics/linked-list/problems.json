@@ -4,8 +4,28 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-25T07:50:48.554Z",
+  "updatedAt": "2026-09-25T08:18:23.218Z",
   "problems": [
+    {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "problemName": "0019-remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "folderPath": "0019-remove-nth-node-from-end-of-list/",
+      "readmePath": "0019-remove-nth-node-from-end-of-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0019-remove-nth-node-from-end-of-list.cpp",
+          "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.cpp",
+          "sha": "713a4388cf693aad7ca100f1cb9ff09ab2f4a7fc",
+          "lastSyncedAt": "2026-09-25T08:18:23.218Z"
+        }
+      ]
+    },
     {
       "frontendId": "24",
       "title": "Swap Nodes in Pairs",
