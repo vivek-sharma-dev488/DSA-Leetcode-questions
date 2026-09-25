@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 67 | 27 | 38 | 2 |
+| 68 | 27 | 39 | 2 |
 
 ## Activity
 
@@ -29,20 +29,20 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-09-12 | 1 |
 | 2026-09-13 | 1 |
 | 2026-09-20 | 1 |
-| 2026-09-25 | 1 |
+| 2026-09-25 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 42% |
+| Array | 28 | 41% |
 | Binary Tree | 25 | 37% |
 | Tree | 25 | 37% |
 | Depth-First Search | 16 | 24% |
-| Two Pointers | 11 | 16% |
+| Two Pointers | 12 | 18% |
 | Binary Search | 10 | 15% |
+| Linked List | 10 | 15% |
 | Binary Search Tree | 9 | 13% |
-| Linked List | 9 | 13% |
 | Hash Table | 8 | 12% |
 | String | 8 | 12% |
 
@@ -72,7 +72,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Hash Table](Topics/hash-table/) | 8 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 9 |
+| [Linked List](Topics/linked-list/) | 10 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 4 |
@@ -88,5 +88,5 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tree](Topics/tree/) | 25 |
-| [Two Pointers](Topics/two-pointers/) | 12 |
+| [Two Pointers](Topics/two-pointers/) | 13 |
 <!---LeetHub Summary End-->
