@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-25T08:18:23.218Z",
+  "updatedAt": "2026-09-25T09:36:27.359Z",
   "problems": [
     {
       "frontendId": "19",
@@ -223,6 +223,26 @@
           "path": "0881-boats-to-save-people/0881-boats-to-save-people.cpp",
           "sha": "29c82998c269cdcb5b67be4cffb50101e382bf8d",
           "lastSyncedAt": "2026-08-16T20:48:31.803Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1721",
+      "title": "Swapping Nodes in a Linked List",
+      "slug": "swapping-nodes-in-a-linked-list",
+      "problemName": "1721-swapping-nodes-in-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
+      "folderPath": "1721-swapping-nodes-in-a-linked-list/",
+      "readmePath": "1721-swapping-nodes-in-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1721-swapping-nodes-in-a-linked-list.cpp",
+          "path": "1721-swapping-nodes-in-a-linked-list/1721-swapping-nodes-in-a-linked-list.cpp",
+          "sha": "cb6aa1518f1000a27cf019eb266fce44f0f99a02",
+          "lastSyncedAt": "2026-09-25T09:36:27.359Z"
         }
       ]
     },
