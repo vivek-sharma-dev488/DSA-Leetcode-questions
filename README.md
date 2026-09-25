@@ -6,17 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 66 | 27 | 37 | 2 |
+| 67 | 27 | 38 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 22 |
+| 1 days | 4 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-19 | 1 |
 | 2026-08-22 | 1 |
 | 2026-08-23 | 3 |
 | 2026-08-24 | 1 |
@@ -30,20 +29,21 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-09-12 | 1 |
 | 2026-09-13 | 1 |
 | 2026-09-20 | 1 |
+| 2026-09-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 28 | 42% |
-| Binary Tree | 25 | 38% |
-| Tree | 25 | 38% |
+| Binary Tree | 25 | 37% |
+| Tree | 25 | 37% |
 | Depth-First Search | 16 | 24% |
+| Two Pointers | 11 | 16% |
 | Binary Search | 10 | 15% |
-| Two Pointers | 10 | 15% |
-| Binary Search Tree | 9 | 14% |
+| Binary Search Tree | 9 | 13% |
+| Linked List | 9 | 13% |
 | Hash Table | 8 | 12% |
-| Linked List | 8 | 12% |
 | String | 8 | 12% |
 
 ## Topics
@@ -72,7 +72,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Hash Table](Topics/hash-table/) | 8 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 8 |
+| [Linked List](Topics/linked-list/) | 9 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 4 |
@@ -88,5 +88,5 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tree](Topics/tree/) | 25 |
-| [Two Pointers](Topics/two-pointers/) | 11 |
+| [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
