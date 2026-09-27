@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-27T17:47:02.484Z",
+  "updatedAt": "2026-09-27T17:57:17.865Z",
   "problems": [
     {
       "frontendId": "19",
@@ -282,7 +282,7 @@
           "filename": "0328-odd-even-linked-list.cpp",
           "path": "0328-odd-even-linked-list/0328-odd-even-linked-list.cpp",
           "sha": "351228095789e350f7b211dd17a2ea4fc8f1fb63",
-          "lastSyncedAt": "2026-09-27T17:47:02.484Z"
+          "lastSyncedAt": "2026-09-27T17:57:17.865Z"
         }
       ]
     },
