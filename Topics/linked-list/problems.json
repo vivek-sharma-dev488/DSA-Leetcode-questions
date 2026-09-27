@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-27T16:38:43.080Z",
+  "updatedAt": "2026-09-27T16:53:40.595Z",
   "problems": [
     {
       "frontendId": "19",
@@ -122,7 +122,7 @@
           "filename": "0086-partition-list.cpp",
           "path": "0086-partition-list/0086-partition-list.cpp",
           "sha": "b71b12a116af9b80a0c1140c448e58fef2f68b44",
-          "lastSyncedAt": "2026-09-27T13:31:21.108Z"
+          "lastSyncedAt": "2026-09-27T16:53:40.595Z"
         }
       ]
     },
