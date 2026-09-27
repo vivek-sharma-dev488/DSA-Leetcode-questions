@@ -6,17 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 68 | 27 | 39 | 2 |
+| 70 | 28 | 40 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 23 |
+| 1 days | 4 days | 24 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-22 | 1 |
 | 2026-08-23 | 3 |
 | 2026-08-24 | 1 |
 | 2026-08-26 | 2 |
@@ -30,21 +29,22 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-09-13 | 1 |
 | 2026-09-20 | 1 |
 | 2026-09-25 | 2 |
+| 2026-09-27 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 41% |
-| Binary Tree | 25 | 37% |
-| Tree | 25 | 37% |
-| Depth-First Search | 16 | 24% |
-| Two Pointers | 12 | 18% |
-| Binary Search | 10 | 15% |
-| Linked List | 10 | 15% |
+| Array | 28 | 40% |
+| Binary Tree | 25 | 36% |
+| Tree | 25 | 36% |
+| Depth-First Search | 16 | 23% |
+| Two Pointers | 13 | 19% |
+| Linked List | 12 | 17% |
+| Binary Search | 10 | 14% |
 | Binary Search Tree | 9 | 13% |
-| Hash Table | 8 | 12% |
-| String | 8 | 12% |
+| Hash Table | 8 | 11% |
+| String | 8 | 11% |
 
 ## Topics
 
@@ -69,17 +69,17 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 8 |
+| [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 10 |
+| [Linked List](Topics/linked-list/) | 13 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
-| [Recursion](Topics/recursion/) | 3 |
+| [Recursion](Topics/recursion/) | 4 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 5 |
@@ -88,5 +88,5 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tree](Topics/tree/) | 25 |
-| [Two Pointers](Topics/two-pointers/) | 13 |
+| [Two Pointers](Topics/two-pointers/) | 15 |
 <!---LeetHub Summary End-->
