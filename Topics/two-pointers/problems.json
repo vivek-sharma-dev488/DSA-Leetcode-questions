@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-27T13:05:50.669Z",
+  "updatedAt": "2026-09-27T13:31:21.108Z",
   "problems": [
     {
       "frontendId": "19",
@@ -83,6 +83,26 @@
           "path": "0061-rotate-list/0061-rotate-list.cpp",
           "sha": "66651b6ac7cec6c445f1b0c6b551f04b614f9588",
           "lastSyncedAt": "2026-09-26T18:36:27.490Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "86",
+      "title": "Partition List",
+      "slug": "partition-list",
+      "problemName": "0086-partition-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+      "folderPath": "0086-partition-list/",
+      "readmePath": "0086-partition-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0086-partition-list.cpp",
+          "path": "0086-partition-list/0086-partition-list.cpp",
+          "sha": "b71b12a116af9b80a0c1140c448e58fef2f68b44",
+          "lastSyncedAt": "2026-09-27T13:31:21.108Z"
         }
       ]
     },
