@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-27T16:53:40.595Z",
+  "updatedAt": "2026-09-27T17:47:02.484Z",
   "problems": [
     {
       "frontendId": "19",
@@ -263,6 +263,26 @@
           "path": "0237-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.cpp",
           "sha": "0469c2f25bde5bec3afd32282ad02b3c76f67f42",
           "lastSyncedAt": "2026-08-13T03:58:25.678Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "328",
+      "title": "Odd Even Linked List",
+      "slug": "odd-even-linked-list",
+      "problemName": "0328-odd-even-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/odd-even-linked-list/",
+      "folderPath": "0328-odd-even-linked-list/",
+      "readmePath": "0328-odd-even-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0328-odd-even-linked-list.cpp",
+          "path": "0328-odd-even-linked-list/0328-odd-even-linked-list.cpp",
+          "sha": "351228095789e350f7b211dd17a2ea4fc8f1fb63",
+          "lastSyncedAt": "2026-09-27T17:47:02.484Z"
         }
       ]
     },
