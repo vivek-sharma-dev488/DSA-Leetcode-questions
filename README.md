@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 70 | 28 | 40 | 2 |
+| 71 | 28 | 41 | 2 |
 
 ## Activity
 
@@ -29,18 +29,18 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-09-13 | 1 |
 | 2026-09-20 | 1 |
 | 2026-09-25 | 2 |
-| 2026-09-27 | 2 |
+| 2026-09-27 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 40% |
-| Binary Tree | 25 | 36% |
-| Tree | 25 | 36% |
+| Array | 28 | 39% |
+| Binary Tree | 25 | 35% |
+| Tree | 25 | 35% |
 | Depth-First Search | 16 | 23% |
-| Two Pointers | 13 | 19% |
-| Linked List | 12 | 17% |
+| Two Pointers | 14 | 20% |
+| Linked List | 13 | 18% |
 | Binary Search | 10 | 14% |
 | Binary Search Tree | 9 | 13% |
 | Hash Table | 8 | 11% |
@@ -63,7 +63,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 16 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
@@ -72,21 +72,22 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 13 |
+| [Linked List](Topics/linked-list/) | 14 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 1 |
+| [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Recursion](Topics/recursion/) | 4 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 5 |
+| [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 8 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tree](Topics/tree/) | 25 |
-| [Two Pointers](Topics/two-pointers/) | 15 |
+| [Two Pointers](Topics/two-pointers/) | 16 |
 <!---LeetHub Summary End-->
