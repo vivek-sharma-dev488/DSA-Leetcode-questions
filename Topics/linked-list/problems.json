@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-26T18:36:27.490Z",
+  "updatedAt": "2026-09-27T05:08:19.237Z",
   "problems": [
     {
       "frontendId": "19",
@@ -23,6 +23,26 @@
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.cpp",
           "sha": "713a4388cf693aad7ca100f1cb9ff09ab2f4a7fc",
           "lastSyncedAt": "2026-09-25T08:18:23.218Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "0021-merge-two-sorted-lists/",
+      "readmePath": "0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0021-merge-two-sorted-lists.cpp",
+          "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
+          "sha": "64b20e9f3daa2de20c62cf6363b4c8f43018973d",
+          "lastSyncedAt": "2026-09-27T05:08:19.237Z"
         }
       ]
     },
