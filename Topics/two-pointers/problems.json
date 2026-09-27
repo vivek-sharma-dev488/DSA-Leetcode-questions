@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-26T18:36:27.490Z",
+  "updatedAt": "2026-09-27T13:05:50.669Z",
   "problems": [
     {
       "frontendId": "19",
@@ -163,6 +163,26 @@
           "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp",
           "sha": "17b68b814de99d49935930911381282a1bedaa34",
           "lastSyncedAt": "2026-09-25T09:53:05.676Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0148-sort-list.cpp",
+          "path": "0148-sort-list/0148-sort-list.cpp",
+          "sha": "9af6477f48fc9926adc12bcedd05c458205f40e2",
+          "lastSyncedAt": "2026-09-27T13:05:50.669Z"
         }
       ]
     },
