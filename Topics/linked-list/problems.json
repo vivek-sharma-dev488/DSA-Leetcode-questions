@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-27T17:57:17.865Z",
+  "updatedAt": "2026-09-28T05:37:38.732Z",
   "problems": [
     {
       "frontendId": "19",
@@ -62,7 +62,7 @@
           "filename": "0024-swap-nodes-in-pairs.cpp",
           "path": "0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
           "sha": "ceafe0d2dd597f150dea1c77406f847e49d114b9",
-          "lastSyncedAt": "2026-08-13T03:57:10.821Z"
+          "lastSyncedAt": "2026-09-28T05:37:38.732Z"
         }
       ]
     },
