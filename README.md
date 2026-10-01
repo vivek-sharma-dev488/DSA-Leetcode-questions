@@ -6,17 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 73 | 28 | 43 | 2 |
+| 74 | 29 | 43 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 24 |
+| 1 days | 4 days | 25 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-23 | 3 |
 | 2026-08-24 | 1 |
 | 2026-08-26 | 2 |
 | 2026-09-04 | 2 |
@@ -30,6 +29,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-09-20 | 1 |
 | 2026-09-25 | 2 |
 | 2026-09-27 | 5 |
+| 2026-10-01 | 1 |
 
 ## Top Tags
 
@@ -39,8 +39,8 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | Binary Tree | 25 | 34% |
 | Tree | 25 | 34% |
 | Depth-First Search | 16 | 22% |
-| Linked List | 15 | 21% |
-| Two Pointers | 15 | 21% |
+| Linked List | 16 | 22% |
+| Two Pointers | 16 | 22% |
 | Binary Search | 10 | 14% |
 | Binary Search Tree | 9 | 12% |
 | Hash Table | 8 | 11% |
@@ -72,7 +72,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 16 |
+| [Linked List](Topics/linked-list/) | 17 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 4 |
@@ -80,14 +80,14 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
-| [Recursion](Topics/recursion/) | 4 |
+| [Recursion](Topics/recursion/) | 5 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 6 |
-| [Stack](Topics/stack/) | 5 |
+| [Stack](Topics/stack/) | 6 |
 | [String](Topics/string/) | 8 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tree](Topics/tree/) | 25 |
-| [Two Pointers](Topics/two-pointers/) | 17 |
+| [Two Pointers](Topics/two-pointers/) | 18 |
 <!---LeetHub Summary End-->
