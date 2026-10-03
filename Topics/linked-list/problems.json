@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-10-01T08:12:30.306Z",
+  "updatedAt": "2026-10-03T12:05:24.045Z",
   "problems": [
     {
       "frontendId": "19",
@@ -203,6 +203,26 @@
           "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp",
           "sha": "17b68b814de99d49935930911381282a1bedaa34",
           "lastSyncedAt": "2026-09-25T09:53:05.676Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "147",
+      "title": "Insertion Sort List",
+      "slug": "insertion-sort-list",
+      "problemName": "0147-insertion-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insertion-sort-list/",
+      "folderPath": "0147-insertion-sort-list/",
+      "readmePath": "0147-insertion-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0147-insertion-sort-list.cpp",
+          "path": "0147-insertion-sort-list/0147-insertion-sort-list.cpp",
+          "sha": "a822e9e45154be9d29095ff6c50016b8c6a70f57",
+          "lastSyncedAt": "2026-10-03T12:05:24.045Z"
         }
       ]
     },
