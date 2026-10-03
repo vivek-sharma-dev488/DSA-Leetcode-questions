@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-27T16:38:43.080Z",
+  "updatedAt": "2026-10-03T12:05:24.045Z",
   "problems": [
     {
       "frontendId": "88",
@@ -23,6 +23,26 @@
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.cpp",
           "sha": "ae348fc4a4ef8c058eb121b5e74aa80d152c32e4",
           "lastSyncedAt": "2026-08-13T04:02:38.896Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "147",
+      "title": "Insertion Sort List",
+      "slug": "insertion-sort-list",
+      "problemName": "0147-insertion-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insertion-sort-list/",
+      "folderPath": "0147-insertion-sort-list/",
+      "readmePath": "0147-insertion-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0147-insertion-sort-list.cpp",
+          "path": "0147-insertion-sort-list/0147-insertion-sort-list.cpp",
+          "sha": "a822e9e45154be9d29095ff6c50016b8c6a70f57",
+          "lastSyncedAt": "2026-10-03T12:05:24.045Z"
         }
       ]
     },
