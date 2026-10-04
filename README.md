@@ -6,17 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 75 | 29 | 44 | 2 |
+| 77 | 29 | 46 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 26 |
+| 2 days | 4 days | 27 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-26 | 2 |
 | 2026-09-04 | 2 |
 | 2026-09-05 | 4 |
 | 2026-09-06 | 2 |
@@ -30,21 +29,22 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-09-27 | 5 |
 | 2026-10-01 | 1 |
 | 2026-10-03 | 1 |
+| 2026-10-04 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 37% |
-| Binary Tree | 25 | 33% |
-| Tree | 25 | 33% |
-| Linked List | 17 | 23% |
+| Array | 28 | 36% |
+| Binary Tree | 25 | 32% |
+| Tree | 25 | 32% |
+| Linked List | 19 | 25% |
+| Two Pointers | 18 | 23% |
 | Depth-First Search | 16 | 21% |
-| Two Pointers | 16 | 21% |
 | Binary Search | 10 | 13% |
 | Binary Search Tree | 9 | 12% |
-| Hash Table | 8 | 11% |
-| String | 8 | 11% |
+| Hash Table | 8 | 10% |
+| Stack | 8 | 10% |
 
 ## Topics
 
@@ -72,7 +72,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 18 |
+| [Linked List](Topics/linked-list/) | 20 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 4 |
@@ -80,14 +80,14 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
-| [Recursion](Topics/recursion/) | 5 |
+| [Recursion](Topics/recursion/) | 6 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 7 |
-| [Stack](Topics/stack/) | 6 |
+| [Stack](Topics/stack/) | 8 |
 | [String](Topics/string/) | 8 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tree](Topics/tree/) | 25 |
-| [Two Pointers](Topics/two-pointers/) | 18 |
+| [Two Pointers](Topics/two-pointers/) | 20 |
 <!---LeetHub Summary End-->
