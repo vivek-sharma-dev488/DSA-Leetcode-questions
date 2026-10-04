@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-04T13:21:24.848Z",
+  "updatedAt": "2026-10-04T13:59:06.532Z",
   "problems": [
     {
       "frontendId": "42",
@@ -63,6 +63,26 @@
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.cpp",
           "sha": "1f7c8aa7d7c92f90e717fb33b223b0d445625b07",
           "lastSyncedAt": "2026-09-13T04:40:45.265Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "0143-reorder-list/",
+      "readmePath": "0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0143-reorder-list.cpp",
+          "path": "0143-reorder-list/0143-reorder-list.cpp",
+          "sha": "9c7d48fc52553004356e7d553561c59394fb6db5",
+          "lastSyncedAt": "2026-10-04T13:59:06.532Z"
         }
       ]
     },
