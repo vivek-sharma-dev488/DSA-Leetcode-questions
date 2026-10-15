@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 79 | 30 | 46 | 3 |
+| 80 | 31 | 46 | 3 |
 
 ## Activity
 
@@ -29,22 +29,22 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-10-03 | 1 |
 | 2026-10-04 | 2 |
 | 2026-10-05 | 1 |
-| 2026-10-15 | 1 |
+| 2026-10-15 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 29 | 37% |
-| Binary Tree | 25 | 32% |
-| Tree | 25 | 32% |
+| Array | 29 | 36% |
+| Binary Tree | 25 | 31% |
+| Tree | 25 | 31% |
 | Linked List | 20 | 25% |
 | Two Pointers | 18 | 23% |
 | Depth-First Search | 16 | 20% |
 | Binary Search | 10 | 13% |
+| Stack | 10 | 13% |
 | Binary Search Tree | 9 | 11% |
-| Stack | 9 | 11% |
-| Hash Table | 8 | 10% |
+| String | 9 | 11% |
 
 ## Topics
 
@@ -58,7 +58,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Binary Tree](Topics/binary-tree/) | 25 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 7 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -84,8 +84,8 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 7 |
-| [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 8 |
+| [Stack](Topics/stack/) | 10 |
+| [String](Topics/string/) | 9 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
