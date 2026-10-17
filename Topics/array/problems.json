@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-15T07:13:47.003Z",
+  "updatedAt": "2026-10-17T06:52:22.876Z",
   "problems": [
     {
       "frontendId": "1",
@@ -404,6 +404,26 @@
           "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.cpp",
           "sha": "48fee1af9a49ea9fd29e7c5f87ecf2fe6072b330",
           "lastSyncedAt": "2026-08-13T03:57:26.797Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "503",
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "problemName": "0503-next-greater-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
+      "folderPath": "0503-next-greater-element-ii/",
+      "readmePath": "0503-next-greater-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0503-next-greater-element-ii.cpp",
+          "path": "0503-next-greater-element-ii/0503-next-greater-element-ii.cpp",
+          "sha": "d58fcf5f5faa17fd958a8eb93ab5be42f7fbbf79",
+          "lastSyncedAt": "2026-10-17T06:52:22.876Z"
         }
       ]
     },
