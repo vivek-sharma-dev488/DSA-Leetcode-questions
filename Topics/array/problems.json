@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-17T06:52:22.876Z",
+  "updatedAt": "2026-10-17T16:04:05.965Z",
   "problems": [
     {
       "frontendId": "1",
@@ -604,6 +604,26 @@
           "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.cpp",
           "sha": "8cecb5ca13fac16474e76dcc502196d33e920f4b",
           "lastSyncedAt": "2026-09-09T13:24:29.629Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1944",
+      "title": "Number of Visible People in a Queue",
+      "slug": "number-of-visible-people-in-a-queue",
+      "problemName": "1944-number-of-visible-people-in-a-queue",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-visible-people-in-a-queue/",
+      "folderPath": "1944-number-of-visible-people-in-a-queue/",
+      "readmePath": "1944-number-of-visible-people-in-a-queue/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1944-number-of-visible-people-in-a-queue.cpp",
+          "path": "1944-number-of-visible-people-in-a-queue/1944-number-of-visible-people-in-a-queue.cpp",
+          "sha": "f7b1e8219a8850ab6fe0b678cefab546c935979e",
+          "lastSyncedAt": "2026-10-17T16:04:05.965Z"
         }
       ]
     },
