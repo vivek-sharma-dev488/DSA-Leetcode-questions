@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-15T08:02:59.662Z",
+  "updatedAt": "2026-10-17T06:52:22.876Z",
   "problems": [
     {
       "frontendId": "20",
@@ -144,6 +144,26 @@
           "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
           "sha": "ebd0a845d9f8f7fd0a75625d86116107cbcf7eee",
           "lastSyncedAt": "2026-10-01T08:12:30.306Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "503",
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "problemName": "0503-next-greater-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
+      "folderPath": "0503-next-greater-element-ii/",
+      "readmePath": "0503-next-greater-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0503-next-greater-element-ii.cpp",
+          "path": "0503-next-greater-element-ii/0503-next-greater-element-ii.cpp",
+          "sha": "d58fcf5f5faa17fd958a8eb93ab5be42f7fbbf79",
+          "lastSyncedAt": "2026-10-17T06:52:22.876Z"
         }
       ]
     },
