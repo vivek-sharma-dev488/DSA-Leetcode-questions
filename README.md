@@ -6,7 +6,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 81 | 31 | 47 | 3 |
+| 82 | 31 | 47 | 4 |
 
 ## Activity
 
@@ -29,19 +29,19 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-10-04 | 2 |
 | 2026-10-05 | 1 |
 | 2026-10-15 | 2 |
-| 2026-10-17 | 1 |
+| 2026-10-17 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 37% |
-| Binary Tree | 25 | 31% |
-| Tree | 25 | 31% |
-| Linked List | 20 | 25% |
+| Array | 31 | 38% |
+| Binary Tree | 25 | 30% |
+| Tree | 25 | 30% |
+| Linked List | 20 | 24% |
 | Two Pointers | 18 | 22% |
 | Depth-First Search | 16 | 20% |
-| Stack | 11 | 14% |
+| Stack | 12 | 15% |
 | Binary Search | 10 | 12% |
 | Binary Search Tree | 9 | 11% |
 | String | 9 | 11% |
@@ -50,7 +50,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 31 |
+| [Array](Topics/array/) | 32 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 10 |
@@ -78,13 +78,13 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 3 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 4 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 7 |
-| [Stack](Topics/stack/) | 11 |
+| [Stack](Topics/stack/) | 12 |
 | [String](Topics/string/) | 9 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
