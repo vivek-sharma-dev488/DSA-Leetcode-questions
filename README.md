@@ -6,17 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 82 | 31 | 47 | 4 |
+| 83 | 31 | 47 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 30 |
+| 2 days | 4 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-08 | 3 |
 | 2026-09-09 | 1 |
 | 2026-09-10 | 1 |
 | 2026-09-12 | 1 |
@@ -30,18 +29,19 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-10-05 | 1 |
 | 2026-10-15 | 2 |
 | 2026-10-17 | 2 |
+| 2026-10-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 31 | 38% |
+| Array | 32 | 39% |
 | Binary Tree | 25 | 30% |
 | Tree | 25 | 30% |
 | Linked List | 20 | 24% |
 | Two Pointers | 18 | 22% |
-| Depth-First Search | 16 | 20% |
-| Stack | 12 | 15% |
+| Depth-First Search | 16 | 19% |
+| Stack | 13 | 16% |
 | Binary Search | 10 | 12% |
 | Binary Search Tree | 9 | 11% |
 | String | 9 | 11% |
@@ -50,7 +50,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 32 |
+| [Array](Topics/array/) | 33 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 10 |
@@ -78,13 +78,14 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 4 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 5 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
+| [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 7 |
-| [Stack](Topics/stack/) | 12 |
+| [Stack](Topics/stack/) | 13 |
 | [String](Topics/string/) | 9 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
