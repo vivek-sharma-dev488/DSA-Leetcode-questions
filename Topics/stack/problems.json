@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-17T16:04:05.965Z",
+  "updatedAt": "2026-10-18T12:47:05.446Z",
   "problems": [
     {
       "frontendId": "20",
@@ -44,6 +44,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.cpp",
           "sha": "9151c3b1b6579cab9728732677b7fd08d9ee8801",
           "lastSyncedAt": "2026-08-13T04:04:00.412Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "84",
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "problemName": "0084-largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "folderPath": "0084-largest-rectangle-in-histogram/",
+      "readmePath": "0084-largest-rectangle-in-histogram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0084-largest-rectangle-in-histogram.cpp",
+          "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.cpp",
+          "sha": "59e1981ec4e1026bbda7db84e098eca580a4e49e",
+          "lastSyncedAt": "2026-10-18T12:47:05.446Z"
         }
       ]
     },
