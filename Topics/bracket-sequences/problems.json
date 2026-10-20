@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-15T08:02:59.662Z",
+  "updatedAt": "2026-10-20T05:27:26.827Z",
   "problems": [
     {
       "frontendId": "20",
@@ -44,6 +44,26 @@
           "path": "0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "3838960081106e361fa8e060be4e9278b7075f94",
           "lastSyncedAt": "2026-09-10T14:37:40.259Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "1021-remove-outermost-parentheses/",
+      "readmePath": "1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1021-remove-outermost-parentheses.cpp",
+          "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
+          "sha": "c6d4842c116f96714cf19704bf5c0bf827ae5f7b",
+          "lastSyncedAt": "2026-10-20T05:27:26.827Z"
         }
       ]
     }
