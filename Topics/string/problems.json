@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-15T08:02:59.662Z",
+  "updatedAt": "2026-10-20T05:27:26.827Z",
   "problems": [
     {
       "frontendId": "20",
@@ -164,6 +164,26 @@
           "path": "0443-string-compression/0443-string-compression.cpp",
           "sha": "9996f3b0920d02b495bfdaf617622e17646ac416",
           "lastSyncedAt": "2026-08-26T17:30:14.950Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "1021-remove-outermost-parentheses/",
+      "readmePath": "1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1021-remove-outermost-parentheses.cpp",
+          "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
+          "sha": "c6d4842c116f96714cf19704bf5c0bf827ae5f7b",
+          "lastSyncedAt": "2026-10-20T05:27:26.827Z"
         }
       ]
     },
