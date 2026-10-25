@@ -6,17 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 87 | 33 | 48 | 6 |
+| 88 | 33 | 49 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 4 days | 35 |
+| 3 days | 4 days | 36 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-20 | 1 |
 | 2026-09-25 | 2 |
 | 2026-09-27 | 5 |
 | 2026-10-01 | 1 |
@@ -30,16 +29,17 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-10-20 | 1 |
 | 2026-10-23 | 1 |
 | 2026-10-24 | 1 |
+| 2026-10-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 33 | 38% |
-| Binary Tree | 25 | 29% |
-| Tree | 25 | 29% |
+| Array | 34 | 39% |
+| Binary Tree | 25 | 28% |
+| Tree | 25 | 28% |
 | Linked List | 20 | 23% |
-| Two Pointers | 18 | 21% |
+| Two Pointers | 18 | 20% |
 | Depth-First Search | 16 | 18% |
 | Stack | 16 | 18% |
 | String | 12 | 14% |
@@ -50,7 +50,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 34 |
+| [Array](Topics/array/) | 35 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 10 |
@@ -74,17 +74,17 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 21 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 4 |
+| [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 5 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
-| [Queue](Topics/queue/) | 1 |
+| [Queue](Topics/queue/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 2 |
-| [Recursion](Topics/recursion/) | 6 |
-| [Simulation](Topics/simulation/) | 2 |
+| [Recursion](Topics/recursion/) | 7 |
+| [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 16 |
