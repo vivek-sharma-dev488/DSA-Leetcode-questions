@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-19T10:49:27.616Z",
+  "updatedAt": "2026-10-25T11:02:55.132Z",
   "problems": [
     {
       "frontendId": "1",
@@ -644,6 +644,26 @@
           "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.cpp",
           "sha": "8cecb5ca13fac16474e76dcc502196d33e920f4b",
           "lastSyncedAt": "2026-09-09T13:24:29.629Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1823",
+      "title": "Find the Winner of the Circular Game",
+      "slug": "find-the-winner-of-the-circular-game",
+      "problemName": "1823-find-the-winner-of-the-circular-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-winner-of-the-circular-game/",
+      "folderPath": "1823-find-the-winner-of-the-circular-game/",
+      "readmePath": "1823-find-the-winner-of-the-circular-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1823-find-the-winner-of-the-circular-game.cpp",
+          "path": "1823-find-the-winner-of-the-circular-game/1823-find-the-winner-of-the-circular-game.cpp",
+          "sha": "db1bbf81ebb9373c86d4fdb47a034e06a4da4bd0",
+          "lastSyncedAt": "2026-10-25T11:02:55.132Z"
         }
       ]
     },
