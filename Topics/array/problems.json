@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-25T11:02:55.132Z",
+  "updatedAt": "2026-10-29T17:02:31.393Z",
   "problems": [
     {
       "frontendId": "1",
@@ -624,6 +624,26 @@
           "path": "0881-boats-to-save-people/0881-boats-to-save-people.cpp",
           "sha": "29c82998c269cdcb5b67be4cffb50101e382bf8d",
           "lastSyncedAt": "2026-08-16T20:48:31.803Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "950",
+      "title": "Reveal Cards In Increasing Order",
+      "slug": "reveal-cards-in-increasing-order",
+      "problemName": "0950-reveal-cards-in-increasing-order",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reveal-cards-in-increasing-order/",
+      "folderPath": "0950-reveal-cards-in-increasing-order/",
+      "readmePath": "0950-reveal-cards-in-increasing-order/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0950-reveal-cards-in-increasing-order.cpp",
+          "path": "0950-reveal-cards-in-increasing-order/0950-reveal-cards-in-increasing-order.cpp",
+          "sha": "34fa3ab70fc3b3f646cfe8a1a0b52fbb472948e6",
+          "lastSyncedAt": "2026-10-29T17:02:31.393Z"
         }
       ]
     },
