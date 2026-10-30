@@ -5,7 +5,7 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-10-30T13:16:09.201Z",
+  "updatedAt": "2026-10-30T13:16:18.692Z",
   "problems": [
     {
       "frontendId": "239",
@@ -43,7 +43,7 @@
           "filename": "0649-dota2-senate.cpp",
           "path": "0649-dota2-senate/0649-dota2-senate.cpp",
           "sha": "1bf03beb08045e17b6799ee8f59afb13f0ff2270",
-          "lastSyncedAt": "2026-10-30T13:16:09.201Z"
+          "lastSyncedAt": "2026-10-30T13:16:18.692Z"
         }
       ]
     },
