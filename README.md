@@ -6,19 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 88 | 33 | 49 | 6 |
+| 91 | 33 | 52 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 4 days | 36 |
+| 1 days | 4 days | 39 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-25 | 2 |
-| 2026-09-27 | 5 |
-| 2026-10-01 | 1 |
 | 2026-10-03 | 1 |
 | 2026-10-04 | 2 |
 | 2026-10-05 | 1 |
@@ -30,19 +27,22 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-10-23 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-25 | 1 |
+| 2026-10-29 | 1 |
+| 2026-10-30 | 1 |
+| 2026-11-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 34 | 39% |
-| Binary Tree | 25 | 28% |
-| Tree | 25 | 28% |
-| Linked List | 20 | 23% |
+| Array | 36 | 40% |
+| Binary Tree | 25 | 27% |
+| Tree | 25 | 27% |
+| Linked List | 20 | 22% |
 | Two Pointers | 18 | 20% |
+| Stack | 17 | 19% |
 | Depth-First Search | 16 | 18% |
-| Stack | 16 | 18% |
-| String | 12 | 14% |
+| String | 13 | 14% |
 | Binary Search | 10 | 11% |
 | Binary Search Tree | 9 | 10% |
 
@@ -50,7 +50,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 35 |
+| [Array](Topics/array/) | 37 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 10 |
@@ -68,27 +68,27 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 3 |
+| [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 21 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 5 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
-| [Queue](Topics/queue/) | 2 |
+| [Queue](Topics/queue/) | 4 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 2 |
 | [Recursion](Topics/recursion/) | 7 |
-| [Simulation](Topics/simulation/) | 3 |
+| [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 7 |
-| [Stack](Topics/stack/) | 16 |
-| [String](Topics/string/) | 12 |
+| [Sorting](Topics/sorting/) | 8 |
+| [Stack](Topics/stack/) | 18 |
+| [String](Topics/string/) | 14 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
