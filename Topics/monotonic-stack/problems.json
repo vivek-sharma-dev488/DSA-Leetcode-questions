@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-10-19T04:40:16.065Z",
+  "updatedAt": "2026-11-02T13:15:24.097Z",
   "problems": [
     {
       "frontendId": "42",
@@ -44,6 +44,26 @@
           "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.cpp",
           "sha": "59e1981ec4e1026bbda7db84e098eca580a4e49e",
           "lastSyncedAt": "2026-10-19T04:40:16.065Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "0496-next-greater-element-i/",
+      "readmePath": "0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0496-next-greater-element-i.cpp",
+          "path": "0496-next-greater-element-i/0496-next-greater-element-i.cpp",
+          "sha": "c0a411f0d0cc84e14a7e6eb32c4d4b7ed4818471",
+          "lastSyncedAt": "2026-11-02T13:15:24.097Z"
         }
       ]
     },
