@@ -6,17 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 92 | 34 | 52 | 6 |
+| 93 | 34 | 53 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 4 days | 40 |
+| 3 days | 4 days | 41 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-04 | 2 |
 | 2026-10-05 | 1 |
 | 2026-10-15 | 2 |
 | 2026-10-17 | 2 |
@@ -30,6 +29,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-10-30 | 1 |
 | 2026-11-01 | 1 |
 | 2026-11-02 | 1 |
+| 2026-11-03 | 1 |
 
 ## Top Tags
 
@@ -39,8 +39,8 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | Binary Tree | 25 | 27% |
 | Tree | 25 | 27% |
 | Linked List | 20 | 22% |
-| Stack | 18 | 20% |
-| Two Pointers | 18 | 20% |
+| Stack | 19 | 20% |
+| Two Pointers | 18 | 19% |
 | Depth-First Search | 16 | 17% |
 | String | 13 | 14% |
 | Binary Search | 10 | 11% |
@@ -61,8 +61,10 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Bracket Sequences](Topics/bracket-sequences/) | 4 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 7 |
 | [Counting](Topics/counting/) | 1 |
+| [Data Stream](Topics/data-stream/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 16 |
+| [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 7 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
@@ -79,7 +81,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 6 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 7 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Queue](Topics/queue/) | 4 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 2 |
@@ -87,7 +89,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 8 |
-| [Stack](Topics/stack/) | 19 |
+| [Stack](Topics/stack/) | 20 |
 | [String](Topics/string/) | 14 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
