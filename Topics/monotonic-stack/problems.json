@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-02T13:15:24.097Z",
+  "updatedAt": "2026-11-03T06:25:23.221Z",
   "problems": [
     {
       "frontendId": "42",
@@ -84,6 +84,26 @@
           "path": "0503-next-greater-element-ii/0503-next-greater-element-ii.cpp",
           "sha": "d58fcf5f5faa17fd958a8eb93ab5be42f7fbbf79",
           "lastSyncedAt": "2026-10-17T06:52:22.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "0901-online-stock-span/",
+      "readmePath": "0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0901-online-stock-span.cpp",
+          "path": "0901-online-stock-span/0901-online-stock-span.cpp",
+          "sha": "98073fdb89c174292a8f68f8261ff0ea53c90d39",
+          "lastSyncedAt": "2026-11-03T06:25:23.221Z"
         }
       ]
     },
