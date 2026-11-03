@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-02T13:15:24.097Z",
+  "updatedAt": "2026-11-03T06:25:23.221Z",
   "problems": [
     {
       "frontendId": "20",
@@ -244,6 +244,26 @@
           "path": "0682-baseball-game/0682-baseball-game.cpp",
           "sha": "7ffb5e04cf77cbd60dbb7d8602715b8c2f45c013",
           "lastSyncedAt": "2026-10-15T07:13:47.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "0901-online-stock-span/",
+      "readmePath": "0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0901-online-stock-span.cpp",
+          "path": "0901-online-stock-span/0901-online-stock-span.cpp",
+          "sha": "98073fdb89c174292a8f68f8261ff0ea53c90d39",
+          "lastSyncedAt": "2026-11-03T06:25:23.221Z"
         }
       ]
     },
