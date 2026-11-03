@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "data-stream",
+    "name": "Data Stream",
+    "tagId": "61063"
+  },
+  "updatedAt": "2026-11-03T06:25:23.221Z",
+  "problems": [
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "0901-online-stock-span/",
+      "readmePath": "0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0901-online-stock-span.cpp",
+          "path": "0901-online-stock-span/0901-online-stock-span.cpp",
+          "sha": "98073fdb89c174292a8f68f8261ff0ea53c90d39",
+          "lastSyncedAt": "2026-11-03T06:25:23.221Z"
+        }
+      ]
+    }
+  ]
+}
