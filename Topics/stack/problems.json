@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-03T06:25:23.221Z",
+  "updatedAt": "2026-11-04T05:53:48.580Z",
   "problems": [
     {
       "frontendId": "20",
@@ -244,6 +244,26 @@
           "path": "0682-baseball-game/0682-baseball-game.cpp",
           "sha": "7ffb5e04cf77cbd60dbb7d8602715b8c2f45c013",
           "lastSyncedAt": "2026-10-15T07:13:47.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "735",
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "problemName": "0735-asteroid-collision",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision/",
+      "folderPath": "0735-asteroid-collision/",
+      "readmePath": "0735-asteroid-collision/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0735-asteroid-collision.cpp",
+          "path": "0735-asteroid-collision/0735-asteroid-collision.cpp",
+          "sha": "df37df8fe014d75ee31c3d168d83889384a52445",
+          "lastSyncedAt": "2026-11-04T05:53:48.580Z"
         }
       ]
     },
