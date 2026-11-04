@@ -6,17 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 93 | 34 | 53 | 6 |
+| 94 | 34 | 54 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 4 days | 41 |
+| 4 days | 4 days | 42 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-05 | 1 |
 | 2026-10-15 | 2 |
 | 2026-10-17 | 2 |
 | 2026-10-18 | 1 |
@@ -30,16 +29,17 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-11-01 | 1 |
 | 2026-11-02 | 1 |
 | 2026-11-03 | 1 |
+| 2026-11-04 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 37 | 40% |
+| Array | 38 | 40% |
 | Binary Tree | 25 | 27% |
 | Tree | 25 | 27% |
-| Linked List | 20 | 22% |
-| Stack | 19 | 20% |
+| Linked List | 20 | 21% |
+| Stack | 20 | 21% |
 | Two Pointers | 18 | 19% |
 | Depth-First Search | 16 | 17% |
 | String | 13 | 14% |
@@ -50,7 +50,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 38 |
+| [Array](Topics/array/) | 39 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 10 |
@@ -86,10 +86,10 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Queue](Topics/queue/) | 4 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 2 |
 | [Recursion](Topics/recursion/) | 7 |
-| [Simulation](Topics/simulation/) | 4 |
+| [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 8 |
-| [Stack](Topics/stack/) | 20 |
+| [Stack](Topics/stack/) | 21 |
 | [String](Topics/string/) | 14 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
