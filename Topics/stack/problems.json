@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-04T05:53:48.580Z",
+  "updatedAt": "2026-11-05T16:23:16.310Z",
   "problems": [
     {
       "frontendId": "20",
@@ -184,6 +184,26 @@
           "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
           "sha": "ebd0a845d9f8f7fd0a75625d86116107cbcf7eee",
           "lastSyncedAt": "2026-10-01T08:12:30.306Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "402",
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "problemName": "0402-remove-k-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
+      "folderPath": "0402-remove-k-digits/",
+      "readmePath": "0402-remove-k-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0402-remove-k-digits.cpp",
+          "path": "0402-remove-k-digits/0402-remove-k-digits.cpp",
+          "sha": "3a3813e59c1f81cf28f1a99c0a333a7adb4b45cb",
+          "lastSyncedAt": "2026-11-05T16:23:16.310Z"
         }
       ]
     },
