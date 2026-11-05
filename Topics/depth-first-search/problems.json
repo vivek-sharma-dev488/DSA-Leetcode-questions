@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "depth-first-search",
-    "name": "Depth-First Search"
+    "name": "Depth-First Search",
+    "tagId": "21"
   },
-  "updatedAt": "2026-09-13T04:40:45.265Z",
+  "updatedAt": "2026-11-05T17:27:54.023Z",
   "problems": [
     {
       "frontendId": "94",
@@ -202,7 +203,7 @@
           "filename": "0226-invert-binary-tree.cpp",
           "path": "0226-invert-binary-tree/0226-invert-binary-tree.cpp",
           "sha": "f06d07b49e11e960f78b8225f3e270f4f7f9db14",
-          "lastSyncedAt": "2026-08-13T03:57:59.560Z"
+          "lastSyncedAt": "2026-11-05T17:27:54.023Z"
         }
       ]
     },
