@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-05T18:10:46.543Z",
+  "updatedAt": "2026-11-06T07:37:42.136Z",
   "problems": [
     {
       "frontendId": "94",
@@ -83,7 +83,7 @@
           "filename": "0101-symmetric-tree.cpp",
           "path": "0101-symmetric-tree/0101-symmetric-tree.cpp",
           "sha": "5223cc4b1e4d136c96c77661502177bc61bd0379",
-          "lastSyncedAt": "2026-08-13T03:57:35.710Z"
+          "lastSyncedAt": "2026-11-06T07:37:42.136Z"
         }
       ]
     },
