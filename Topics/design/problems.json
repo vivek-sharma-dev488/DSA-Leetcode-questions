@@ -5,8 +5,28 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-03T06:25:23.221Z",
+  "updatedAt": "2026-11-11T16:53:43.573Z",
   "problems": [
+    {
+      "frontendId": "232",
+      "title": "Implement Queue using Stacks",
+      "slug": "implement-queue-using-stacks",
+      "problemName": "0232-implement-queue-using-stacks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "folderPath": "0232-implement-queue-using-stacks/",
+      "readmePath": "0232-implement-queue-using-stacks/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0232-implement-queue-using-stacks.cpp",
+          "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.cpp",
+          "sha": "fef972b1fef6595e9f51933c94207db773424084",
+          "lastSyncedAt": "2026-11-11T16:53:43.573Z"
+        }
+      ]
+    },
     {
       "frontendId": "901",
       "title": "Online Stock Span",
