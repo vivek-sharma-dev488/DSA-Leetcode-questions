@@ -6,17 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 95 | 34 | 55 | 6 |
+| 96 | 35 | 55 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 5 days | 43 |
+| 1 days | 5 days | 44 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-17 | 2 |
 | 2026-10-18 | 1 |
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
@@ -30,6 +29,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-05 | 1 |
+| 2026-11-11 | 1 |
 
 ## Top Tags
 
@@ -38,12 +38,12 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | Array | 38 | 40% |
 | Binary Tree | 25 | 26% |
 | Tree | 25 | 26% |
-| Stack | 21 | 22% |
+| Stack | 22 | 23% |
 | Linked List | 20 | 21% |
 | Two Pointers | 18 | 19% |
 | Depth-First Search | 16 | 17% |
 | String | 14 | 15% |
-| Binary Search | 10 | 11% |
+| Binary Search | 10 | 10% |
 | Binary Search Tree | 9 | 9% |
 
 ## Topics
@@ -64,7 +64,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 16 |
-| [Design](Topics/design/) | 1 |
+| [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 7 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
@@ -83,13 +83,13 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 8 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
-| [Queue](Topics/queue/) | 4 |
+| [Queue](Topics/queue/) | 5 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 2 |
 | [Recursion](Topics/recursion/) | 7 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 8 |
-| [Stack](Topics/stack/) | 22 |
+| [Stack](Topics/stack/) | 23 |
 | [String](Topics/string/) | 15 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
