@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "binary-lifting",
-    "name": "Binary Lifting"
+    "name": "Binary Lifting",
+    "tagId": "68207"
   },
-  "updatedAt": "2026-09-06T05:10:00.214Z",
+  "updatedAt": "2026-11-12T19:00:17.999Z",
   "problems": [
     {
       "frontendId": "235",
@@ -22,7 +23,7 @@
           "filename": "0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
           "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
           "sha": "eeb3245ce62b6af4258b192f5c6b840d628cfd95",
-          "lastSyncedAt": "2026-09-06T05:10:00.214Z"
+          "lastSyncedAt": "2026-11-12T19:00:17.999Z"
         }
       ]
     }
