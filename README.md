@@ -6,17 +6,16 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 99 | 37 | 56 | 6 |
+| 100 | 38 | 56 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 5 days | 46 |
+| 4 days | 5 days | 47 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-20 | 1 |
 | 2026-10-23 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-25 | 1 |
@@ -30,6 +29,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
 | 2026-11-13 | 2 |
+| 2026-11-14 | 1 |
 
 ## Top Tags
 
@@ -42,7 +42,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | Linked List | 20 | 20% |
 | Depth-First Search | 18 | 18% |
 | Two Pointers | 18 | 18% |
-| String | 14 | 14% |
+| String | 15 | 15% |
 | Binary Search Tree | 11 | 11% |
 | Binary Search | 10 | 10% |
 
@@ -60,7 +60,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 4 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 7 |
-| [Counting](Topics/counting/) | 1 |
+| [Counting](Topics/counting/) | 2 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 18 |
@@ -71,7 +71,7 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 5 |
-| [Hash Table](Topics/hash-table/) | 10 |
+| [Hash Table](Topics/hash-table/) | 11 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 21 |
@@ -83,14 +83,14 @@ DSA and LeetCode solutions in C++, covering data structures, algorithms, and pro
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 8 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
-| [Queue](Topics/queue/) | 6 |
+| [Queue](Topics/queue/) | 7 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 2 |
 | [Recursion](Topics/recursion/) | 7 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 8 |
 | [Stack](Topics/stack/) | 24 |
-| [String](Topics/string/) | 15 |
+| [String](Topics/string/) | 16 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
