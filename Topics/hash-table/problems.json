@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-02T13:15:24.097Z",
+  "updatedAt": "2026-11-14T14:29:34.972Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "643fe574e2b638ec130042a8eaa555f486882b32",
           "lastSyncedAt": "2026-08-23T17:59:29.172Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "387",
+      "title": "First Unique Character in a String",
+      "slug": "first-unique-character-in-a-string",
+      "problemName": "0387-first-unique-character-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+      "folderPath": "0387-first-unique-character-in-a-string/",
+      "readmePath": "0387-first-unique-character-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0387-first-unique-character-in-a-string.cpp",
+          "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.cpp",
+          "sha": "7af8280e3c4fb81fb330e225a61b40487b97ec60",
+          "lastSyncedAt": "2026-11-14T14:29:34.972Z"
         }
       ]
     },
