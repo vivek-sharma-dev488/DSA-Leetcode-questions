@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "dynamic-programming",
-    "name": "Dynamic Programming"
+    "name": "Dynamic Programming",
+    "tagId": "13"
   },
-  "updatedAt": "2026-09-10T14:37:40.259Z",
+  "updatedAt": "2026-11-16T13:25:05.530Z",
   "problems": [
     {
       "frontendId": "22",
@@ -123,6 +124,26 @@
           "path": "0509-fibonacci-number/0509-fibonacci-number.cpp",
           "sha": "da955bd300d00e670c8dfc6dccec8c39a705494b",
           "lastSyncedAt": "2026-09-05T10:41:45.956Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1373",
+      "title": "Maximum Sum BST in Binary Tree",
+      "slug": "maximum-sum-bst-in-binary-tree",
+      "problemName": "1373-maximum-sum-bst-in-binary-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+      "folderPath": "1373-maximum-sum-bst-in-binary-tree/",
+      "readmePath": "1373-maximum-sum-bst-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1373-maximum-sum-bst-in-binary-tree.cpp",
+          "path": "1373-maximum-sum-bst-in-binary-tree/1373-maximum-sum-bst-in-binary-tree.cpp",
+          "sha": "bacf21af945d5bfab15cd104478be82825d7d896",
+          "lastSyncedAt": "2026-11-16T13:25:05.530Z"
         }
       ]
     }
