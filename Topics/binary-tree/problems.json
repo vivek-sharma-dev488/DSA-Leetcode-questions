@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-15T06:10:56.811Z",
+  "updatedAt": "2026-11-16T13:25:05.530Z",
   "problems": [
     {
       "frontendId": "94",
@@ -544,6 +544,26 @@
           "path": "1038-binary-search-tree-to-greater-sum-tree/1038-binary-search-tree-to-greater-sum-tree.cpp",
           "sha": "98cad4a2f5129745bbb9d675c3dc81c2144d2985",
           "lastSyncedAt": "2026-09-08T14:18:37.140Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1373",
+      "title": "Maximum Sum BST in Binary Tree",
+      "slug": "maximum-sum-bst-in-binary-tree",
+      "problemName": "1373-maximum-sum-bst-in-binary-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+      "folderPath": "1373-maximum-sum-bst-in-binary-tree/",
+      "readmePath": "1373-maximum-sum-bst-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1373-maximum-sum-bst-in-binary-tree.cpp",
+          "path": "1373-maximum-sum-bst-in-binary-tree/1373-maximum-sum-bst-in-binary-tree.cpp",
+          "sha": "bacf21af945d5bfab15cd104478be82825d7d896",
+          "lastSyncedAt": "2026-11-16T13:25:05.530Z"
         }
       ]
     }
