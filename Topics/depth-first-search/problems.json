@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-16T13:25:05.530Z",
+  "updatedAt": "2026-11-17T13:47:09.562Z",
   "problems": [
     {
       "frontendId": "94",
@@ -84,6 +84,26 @@
           "path": "0101-symmetric-tree/0101-symmetric-tree.cpp",
           "sha": "5223cc4b1e4d136c96c77661502177bc61bd0379",
           "lastSyncedAt": "2026-11-06T07:37:42.136Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "problemName": "0104-maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "folderPath": "0104-maximum-depth-of-binary-tree/",
+      "readmePath": "0104-maximum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0104-maximum-depth-of-binary-tree.cpp",
+          "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.cpp",
+          "sha": "e6d9214783a199caaab1ed9996c3b492e25d1119",
+          "lastSyncedAt": "2026-11-17T13:47:09.562Z"
         }
       ]
     },
